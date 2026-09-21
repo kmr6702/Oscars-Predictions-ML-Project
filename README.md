@@ -4,7 +4,9 @@ Movie buffs eagerly await the Oscars season, and may be unsure whether their fav
 
 ## Group Members
  Saera Chung
+ 
  Gunnika Kapoor
+ 
  Katy Richardson
 
 ## Project Structure
