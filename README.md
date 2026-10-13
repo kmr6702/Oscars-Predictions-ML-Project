@@ -11,12 +11,12 @@ Movie buffs eagerly await the Oscars season, and may be unsure whether their fav
 
 ## Project Structure
 
-### Code
+### Code (Code Folder)
 All the scripts, notebooks, and implementations.
 
 **Model 1: A model that will perform sentiment analysis on Rotten Tomatoes reviews to predict whether a movie won an Oscar.**
 
-Location: 
+File: `sentiment_analysis.ipynb`
 
 **Model 2: A Neural Network model that will predict whether a movie won an Oscar.**
 
@@ -30,8 +30,10 @@ Location:
 
 Location: 
 
-### Data
+### Data (Data Folder)
 Datasets, pre-trained models, etc.
+
+Sentiment Analysis Data: `sentiment_data` folder. Each file contains reviews on a given year's Oscar winning movie, labeled as `year_name.csv`.
 
 ### Resources
 Research papers, reference links, notes that you used for the project, and final presentation slides.
