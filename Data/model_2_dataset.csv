@@ -1,10 +1,10 @@
 rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,foreign_percent,year,genres,is_action,is_adventure,is_animation,is_comedy,is_crime,is_documentary,is_drama,is_family,is_fantasy,is_history,is_horror,is_music,is_mystery,is_romance,is_scifi,is_thriller,is_war,is_western,rating,vote_count,original_language,production_countries,director,duration,is_winner
-52,Paranormal Activity 4,142802657,53885000,37.70,88917657,62.30,2012,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5.41,1875,en,United Kingdom,"Henry Joost, Ariel Schulman",88,FALSE
+52,Paranormal Activity 4,142802657,53885000,37.70,88917657,62.30,2012,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5.41,1875,en,United Kingdom,Henry Joost,88,FALSE
 53,Step Up Revolution,140470746,35074677,25.00,105396069,75.00,2012,"Music, Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,6.90,2037,en,United Kingdom,Scott Speer,99,FALSE
 54,The Best Exotic Marigold Hotel,136836156,46412041,33.90,90424115,66.10,2012,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.95,1334,en,United Kingdom,John Madden,124,FALSE
 57,Zero Dark Thirty,132820716,95720716,72.10,37100000,27.90,2012,"Thriller, Drama",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,6.99,4505,en,United Kingdom,Kathryn Bigelow,157,FALSE
-58,Ghost Rider: Spirit of Vengeance,132563930,51774002,39.10,80789928,60.90,2012,"Action, Fantasy, Thriller",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,5.01,3782,en,United Kingdom,"Mark Neveldine, Brian Taylor",95,FALSE
-59,Cloud Atlas,130482868,27108272,20.80,103374596,79.20,2012,"Drama, Science Fiction",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,6.89,7061,en,United Kingdom,"Lana Wachowski, Lilly Wachowski, Tom Tykwer",172,FALSE
+58,Ghost Rider: Spirit of Vengeance,132563930,51774002,39.10,80789928,60.90,2012,"Action, Fantasy, Thriller",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,5.01,3782,en,United Kingdom,Mark Neveldine,95,FALSE
+59,Cloud Atlas,130482868,27108272,20.80,103374596,79.20,2012,"Drama, Science Fiction",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,6.89,7061,en,United Kingdom,Lana Wachowski,172,FALSE
 60,The Woman in Black,128955898,54333290,42.10,74622608,57.90,2012,"Drama, Horror, Thriller",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,6.14,3449,en,United Kingdom,James Watkins,95,FALSE
 61,Chronicle,126636097,64575175,51.00,62060922,49.00,2012,"Science Fiction, Drama, Thriller",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,6.83,5285,en,United Kingdom,Josh Trank,85,FALSE
 63,The Pirates! Band of Misfits,123054041,31051126,25.20,92002915,74.80,2012,"Animation, Adventure, Family, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.50,1093,en,United Kingdom,Peter Lord,88,FALSE
@@ -12,7 +12,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 65,Abraham Lincoln: Vampire Hunter,116471580,37519139,32.20,78952441,67.80,2012,"Action, Fantasy, Horror",1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,5.75,3322,en,United Kingdom,Timur Bekmambetov,105,FALSE
 66,Pitch Perfect,115350426,65001093,56.40,50349333,43.60,2012,"Comedy, Music, Romance",0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,7.30,6513,en,United Kingdom,Jason Moore,112,FALSE
 67,Hope Springs,114281051,63536011,55.60,50745040,44.40,2012,"Drama, Comedy, Romance",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.26,765,en,United Kingdom,David Frankel,100,FALSE
-68,ParaNorman,107139399,56003051,52.30,51136348,47.70,2012,"Family, Animation, Adventure, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.00,2531,en,United Kingdom,"Sam Fell, Chris Butler",92,FALSE
+68,ParaNorman,107139399,56003051,52.30,51136348,47.70,2012,"Family, Animation, Adventure, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.00,2531,en,United Kingdom,Sam Fell,92,FALSE
 69,The Campaign,104907746,86907746,82.80,18000000,17.20,2012,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.83,1732,en,United Kingdom,Jay Roach,85,FALSE
 71,Project X,102731865,54731865,53.30,48000000,46.70,2012,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.88,6367,en,United Kingdom,Nima Nourizadeh,88,FALSE
 72,The Devil Inside,101758490,53261944,52.30,48496546,47.70,2012,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,4.67,787,en,United Kingdom,William Brent Bell,83,FALSE
@@ -26,7 +26,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 81,What to Expect When You're Expecting,84384002,41152203,48.80,43231799,51.20,2012,"Romance, Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.00,1782,en,United Kingdom,Kirk Jones,110,FALSE
 82,Savages,82966152,47382068,57.10,35584084,42.90,2012,"Crime, Drama, Thriller",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,6.35,2135,en,United Kingdom,Oliver Stone,131,FALSE
 83,Sinister,82515113,48086903,58.30,34428210,41.70,2012,"Horror, Thriller, Mystery",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.87,5508,en,United Kingdom,Scott Derrickson,110,FALSE
-84,Act of Valor,82497035,70012847,84.90,12484188,15.10,2012,"Action, Thriller, War",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,6.50,1138,en,United Kingdom,"Mike McCoy, Scott Waugh",110,FALSE
+84,Act of Valor,82497035,70012847,84.90,12484188,15.10,2012,"Action, Thriller, War",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,6.50,1138,en,United Kingdom,Mike McCoy,110,FALSE
 85,Frankenweenie,81491068,35291068,43.30,46200000,56.70,2012,"Animation, Comedy, Family",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.99,3356,en,United Kingdom,Tim Burton,87,FALSE
 86,The Grey,79781695,51580236,64.70,28201459,35.30,2012,"Drama, Thriller, Action, Adventure",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,6.57,3823,en,United Kingdom,Joe Carnahan,117,FALSE
 87,Diary of a Wimpy Kid: Dog Days,77229695,49008662,63.50,28221033,36.50,2012,"Comedy, Family",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.29,950,en,United Kingdom,David Bowers,94,FALSE
@@ -36,7 +36,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 95,Anna Karenina,68929150,12816367,18.60,56112783,81.40,2012,"Drama, Romance, History",0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,6.72,2271,en,United Kingdom,Joe Wright,129,FALSE
 96,The Watch,68267862,35353000,51.80,32914862,48.20,2012,"Comedy, Action, Science Fiction",1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5.58,2292,en,United Kingdom,Akiva Schaffer,102,FALSE
 97,Moonrise Kingdom,68263166,45512466,66.70,22750700,33.30,2012,"Comedy, Drama, Romance",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7.69,5835,en,United Kingdom,Wes Anderson,94,FALSE
-110,The Three Stooges,54819301,44338224,80.90,10481077,19.10,2012,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.80,581,en,"USA, United Kingdom","Peter Farrelly, Bobby Farrelly",92,FALSE
+110,The Three Stooges,54819301,44338224,80.90,10481077,19.10,2012,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.80,581,en,"USA, United Kingdom",Peter Farrelly,92,FALSE
 111,The Five-Year Engagement,54169363,28835528,53.20,25333835,46.80,2012,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5.84,1318,en,"USA, United Kingdom",Nicholas Stoller,124,FALSE
 112,Red Dawn,50950296,44806783,87.90,6143513,12.10,2012,"Action, Thriller, War, Drama, Science Fiction",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,6.30,800,en,"USA, United Kingdom",Dan Bradley,93,FALSE
 113,Red Tails,50365498,49876377,99.00,489121,1.00,2012,"Drama, Action, Adventure, History, War",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,6.56,630,en,"USA, United Kingdom",Anthony Hemingway,125,FALSE
@@ -51,14 +51,14 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 131,Killing Them Softly,37930465,15026056,39.60,22904409,60.40,2012,"Crime, Thriller",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.03,2178,en,"USA, United Kingdom",Andrew Dominik,96,FALSE
 135,Good Deeds,35579177,35025791,98.40,553386,1.60,2012,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.20,130,en,"USA, United Kingdom",Tyler Perry,110,FALSE
 136,Arbitrage,35485056,7919574,22.30,27565482,77.70,2012,"Drama, Thriller",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,6.31,844,en,"USA, United Kingdom",Nicholas Jarecki,107,FALSE
-138,Chimpanzee,34823764,28972764,83.20,5851000,16.80,2012,Documentary,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7.05,121,en,"USA, United Kingdom","Alastair Fothergill, Mark Linfield",78,FALSE
+138,Chimpanzee,34823764,28972764,83.20,5851000,16.80,2012,Documentary,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7.05,121,en,"USA, United Kingdom",Alastair Fothergill,78,FALSE
 139,Alex Cross,34618867,25888412,74.80,8730455,25.20,2012,"Action, Thriller, Crime, Mystery",1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,5.19,714,en,"USA, United Kingdom",Rob Cohen,101,FALSE
 140,Salmon Fishing in the Yemen,34564651,9047981,26.20,25516670,73.80,2012,"Drama, Romance, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.40,874,en,"USA, United Kingdom",Lasse Hallström,107,FALSE
 141,Haywire,34513760,18942396,54.90,15571364,45.10,2012,"Action, Thriller",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5.69,1357,en,"USA, United Kingdom",Steven Soderbergh,93,FALSE
 143,Cirque du Soleil: Worlds Away,34153101,12512862,36.60,21640239,63.40,2012,"Fantasy, Family, Music, Drama, Romance",0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,7.00,167,en,"USA, United Kingdom",Andrew Adamson,91,FALSE
 146,The Perks of Being a Wallflower,33384127,17742948,53.10,15641179,46.90,2012,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.80,10465,en,"USA, United Kingdom",Stephen Chbosky,102,FALSE
-147,Lockout,32948113,14326864,43.50,18621249,56.50,2012,"Action, Thriller, Science Fiction",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,5.93,1827,en,"USA, United Kingdom","James Mather, Stephen Saint Leger",95,FALSE
-149,Katy Perry: Part of Me,32726956,25326071,77.40,7400885,22.60,2012,"Documentary, Music",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,7.10,278,en,"USA, United Kingdom","Dan Cutforth, Jane Lipsitz",93,FALSE
+147,Lockout,32948113,14326864,43.50,18621249,56.50,2012,"Action, Thriller, Science Fiction",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,5.93,1827,en,"USA, United Kingdom",James Mather,95,FALSE
+149,Katy Perry: Part of Me,32726956,25326071,77.40,7400885,22.60,2012,"Documentary, Music",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,7.10,278,en,"USA, United Kingdom",Dan Cutforth,93,FALSE
 156,Joyful Noise,31158113,30932113,99.30,226000,0.70,2012,"Comedy, Music",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6.50,156,en,"USA, United Kingdom",Todd Graff,118,FALSE
 157,Premium Rush,31083599,20275446,65.20,10808153,34.80,2012,"Crime, Action, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.33,2114,en,"USA, United Kingdom",David Koepp,91,FALSE
 158,Playing for Keeps,30962335,13103272,42.30,17859063,57.70,2012,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5.67,678,en,"USA, United Kingdom",Gabriele Muccino,105,FALSE
@@ -76,12 +76,12 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 184,Sparkle,24637800,24397469,99.00,240331,1.00,2012,"Music, Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,6.30,116,en,"USA, United Kingdom",Salim Akil,116,FALSE
 189,Wanderlust,23812816,17450535,73.30,6362281,26.70,2012,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5.50,1247,en,"USA, United Kingdom",David Wain,98,FALSE
 191,To the Arctic 3D,23695388,14560838,61.50,9134550,38.50,2012,Documentary,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6.40,25,en,"USA, United Kingdom",Greg MacGillivray,40,FALSE
-193,Kon-Tiki,22842887,1517410,6.60,21325477,93.40,2012,"Adventure, History",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6.90,752,no,"USA, United Kingdom","Joachim Rønning, Espen Sandberg",118,FALSE
+193,Kon-Tiki,22842887,1517410,6.60,21325477,93.40,2012,"Adventure, History",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6.90,752,no,"USA, United Kingdom",Joachim Rønning,118,FALSE
 195,Upside Down,22187813,105095,0.50,22082718,99.50,2012,"Romance, Science Fiction, Drama, Fantasy",0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,6.27,2472,en,"USA, United Kingdom",Juan Diego Solanas,109,FALSE
 200,Beasts of the Southern Wild,21107746,12795746,60.60,8312000,39.40,2012,"Drama, Fantasy",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6.82,1053,en,"USA, United Kingdom",Benh Zeitlin,93,FALSE
-1,Frozen,1280802282,400738009,31.30,880064273,68.70,2013,"Animation, Family, Adventure, Fantasy",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.25,16567,en,"USA, United Kingdom","Chris Buck, Jennifer Lee",102,FALSE
+1,Frozen,1280802282,400738009,31.30,880064273,68.70,2013,"Animation, Family, Adventure, Fantasy",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.25,16567,en,"USA, United Kingdom",Chris Buck,102,FALSE
 2,Iron Man 3,1214811252,409013994,33.70,805797258,66.30,2013,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.93,22218,en,"USA, United Kingdom",Shane Black,130,FALSE
-3,Despicable Me 2,970766005,368065385,37.90,602700620,62.10,2013,"Animation, Comedy, Family",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.93,11268,en,"USA, United Kingdom","Pierre Coffin, Chris Renaud",98,FALSE
+3,Despicable Me 2,970766005,368065385,37.90,602700620,62.10,2013,"Animation, Comedy, Family",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.93,11268,en,"USA, United Kingdom",Pierre Coffin,98,FALSE
 4,The Hobbit: The Desolation of Smaug,958366855,258366855,27.00,700000000,73.00,2013,"Fantasy, Adventure, Action",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7.58,13194,en,"USA, United Kingdom",Peter Jackson,161,FALSE
 5,The Hunger Games: Catching Fire,865011746,424668047,49.10,440343699,50.90,2013,"Adventure, Action, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.43,17352,en,"USA, United Kingdom",Francis Lawrence,146,FALSE
 6,Fast & Furious 6,788679850,238679850,30.30,550000000,69.70,2013,"Action, Thriller, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.82,10591,en,"USA, United Kingdom",Justin Lin,130,FALSE
@@ -89,7 +89,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 8,Gravity,723192705,274092705,37.90,449100000,62.10,2013,"Science Fiction, Thriller, Drama",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,7.17,15326,en,"USA, United Kingdom",Alfonso Cuarón,91,FALSE
 9,Man of Steel,670145518,291045518,43.40,379100000,56.60,2013,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.63,15148,en,"USA, United Kingdom",Zack Snyder,143,FALSE
 10,Thor: The Dark World,644783140,206362140,32.00,438421000,68.00,2013,"Action, Adventure, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.52,17305,en,"USA, United Kingdom",Alan Taylor,112,FALSE
-11,The Croods,587204668,187168425,31.90,400036243,68.10,2013,"Animation, Adventure, Family, Fantasy, Comedy, Action",1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.92,7067,en,"USA, United Kingdom","Kirk DeMicco, Chris Sanders",98,FALSE
+11,The Croods,587204668,187168425,31.90,400036243,68.10,2013,"Animation, Adventure, Family, Fantasy, Comedy, Action",1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.92,7067,en,"USA, United Kingdom",Kirk DeMicco,98,FALSE
 12,World War Z,540007876,202359711,37.50,337648165,62.50,2013,"Action, Horror, Science Fiction, Thriller",1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,6.82,15404,en,"USA, United Kingdom",Marc Forster,116,FALSE
 13,Oz the Great and Powerful,493311825,234911825,47.60,258400000,52.40,2013,"Fantasy, Adventure, Family",0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,5.92,6497,en,"USA, United Kingdom",Sam Raimi,130,FALSE
 14,Star Trek Into Darkness,467365246,228778661,49.00,238586585,51.00,2013,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.30,9095,en,"USA, United Kingdom",J. J. Abrams,132,FALSE
@@ -106,7 +106,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 25,Oblivion,286168572,89107235,31.10,197061337,68.90,2013,"Action, Science Fiction, Adventure, Mystery",1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,6.65,10675,en,"USA, United Kingdom",Joseph Kosinski,124,FALSE
 26,Elysium,286140700,93050117,32.50,193090583,67.50,2013,"Science Fiction, Action, Drama, Thriller",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,6.51,8839,en,"USA, United Kingdom",Neill Blomkamp,109,FALSE
 27,Turbo,282570682,83028128,29.40,199542554,70.60,2013,"Animation, Family",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.22,3353,en,"USA, United Kingdom",David Soren,96,FALSE
-28,Cloudy with a Chance of Meatballs 2,274325949,119793567,43.70,154532382,56.30,2013,"Animation, Family, Comedy",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.43,3189,en,"USA, United Kingdom","Cody Cameron, Kris Pearn",95,FALSE
+28,Cloudy with a Chance of Meatballs 2,274325949,119793567,43.70,154532382,56.30,2013,"Animation, Family, Comedy",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.43,3189,en,"USA, United Kingdom",Cody Cameron,95,FALSE
 29,Epic,268426634,107518682,40.10,160907952,59.90,2013,"Animation, Adventure, Family, Fantasy",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.52,2738,en,"USA, United Kingdom",Chris Wedge,102,FALSE
 30,The Lone Ranger,260502115,89302115,34.30,171200000,65.70,2013,"Action, Adventure, Western",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6.11,5817,en,"USA, United Kingdom",Gore Verbinski,149,FALSE
 31,American Hustle,251171807,150117807,59.80,101054000,40.20,2013,"Drama, Crime",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6.85,7254,en,"USA, United Kingdom",David O. Russell,138,FALSE
@@ -133,7 +133,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 53,Mama,146428180,71628180,48.90,74800000,51.10,2013,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6.27,4137,en,"USA, United Kingdom",Andy Muschietti,100,FALSE
 54,Escape Plan,137328301,25135965,18.30,112192336,81.70,2013,"Action, Thriller",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.73,5148,en,"USA, United Kingdom",Mikael Håfström,115,FALSE
 55,2 Guns,131940411,75612460,57.30,56327951,42.70,2013,"Action, Comedy, Crime",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6.54,4139,en,"USA, United Kingdom",Baltasar Kormákur,109,FALSE
-56,This Is the End,126041322,101470202,80.50,24571120,19.50,2013,"Action, Comedy",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.22,6353,en,"USA, United Kingdom","Seth Rogen, Evan Goldberg",107,FALSE
+56,This Is the End,126041322,101470202,80.50,24571120,19.50,2013,"Action, Comedy",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.22,6353,en,"USA, United Kingdom",Seth Rogen,107,FALSE
 57,Ender's Game,125544024,61737191,49.20,63806833,50.80,2013,"Science Fiction, Action, Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.59,5811,en,"USA, United Kingdom",Gavin Hood,114,FALSE
 58,Prisoners,122126687,61002302,50.00,61124385,50.00,2013,"Drama, Thriller, Crime",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,8.10,11822,en,"USA, United Kingdom",Denis Villeneuve,153,FALSE
 60,Saving Mr. Banks,117867984,83301580,70.70,34566404,29.30,2013,"Comedy, Drama, History",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.35,3290,en,"USA, United Kingdom",John Lee Hancock,125,FALSE
@@ -195,9 +195,9 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 145,Don Jon,39439355,24477704,62.10,14961651,37.90,2013,"Romance, Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.01,4282,en,USA,Joseph Gordon-Levitt,118,FALSE
 148,"Like Father, Like Son",37170163,334616,0.90,36835547,99.10,2013,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.60,701,ja,USA,Hirokazu Kore-eda,90,FALSE
 154,Broken City,34737199,19701164,56.70,15036035,43.30,2013,"Thriller, Crime, Drama",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,5.93,1459,en,USA,Allen Hughes,107,FALSE
-155,Inside Llewyn Davis,32935319,13235319,40.20,19700000,59.80,2013,"Drama, Music",0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,7.20,2677,en,USA,"Joel Coen, Ethan Coen",130,FALSE
+155,Inside Llewyn Davis,32935319,13235319,40.20,19700000,59.80,2013,"Drama, Music",0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,7.20,2677,en,USA,Joel Coen,130,FALSE
 157,Mud,32613173,21590086,66.20,11023087,33.80,2013,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.06,2781,en,USA,Jeff Nichols,104,FALSE
-159,Kevin Hart: Let Me Explain,32318051,32244051,99.80,74000,0.20,2013,"Comedy, Documentary",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6.80,203,en,USA,"Leslie Small, Tim Story",130,FALSE
+159,Kevin Hart: Let Me Explain,32318051,32244051,99.80,74000,0.20,2013,"Comedy, Documentary",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6.80,203,en,USA,Leslie Small,130,FALSE
 163,Spring Breakers,31724284,14124284,44.50,17600000,55.50,2013,"Drama, Crime",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5.23,3808,en,USA,Harmony Korine,121,FALSE
 164,New World,31670607,457806,1.40,31212801,98.60,2013,"Thriller, Crime, Drama",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,7.40,461,ko,USA,Park Hoon-jung,106,FALSE
 170,The Suspect,28674130,218693,0.80,28455437,99.20,2013,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5.50,34,en,USA,Won Shin-yun,99,FALSE
@@ -207,7 +207,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 176,Nebraska,27682872,17654912,63.80,10027960,36.20,2013,"Drama, Adventure",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.44,1760,en,USA,Alexander Payne,146,FALSE
 177,The Incredible Burt Wonderstone,27437881,22537881,82.10,4900000,17.90,2013,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.70,1414,en,USA,Don Scardino,97,FALSE
 180,You're Next,26895481,18494006,68.80,8401475,31.20,2013,"Horror, Thriller, Mystery",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.59,2470,en,USA,Adam Wingard,100,FALSE
-183,The Way Way Back,26474920,21506546,81.20,4968374,18.80,2013,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.14,1775,en,USA,"Nat Faxon, Jim Rash",132,FALSE
+183,The Way Way Back,26474920,21506546,81.20,4968374,18.80,2013,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.14,1775,en,USA,Nat Faxon,132,FALSE
 191,Enough Said,25288872,17550872,69.40,7738000,30.60,2013,"Comedy, Drama, Romance",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.72,838,en,USA,Nicole Holofcener,116,FALSE
 192,The Last Exorcism Part II,25051865,15179302,60.60,9872563,39.40,2013,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,4.63,533,en,USA,Ed Gass-Donnelly,104,FALSE
 194,Drug War,24676341,128195,0.50,24548146,99.50,2013,"Action, Drama, Crime",1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6.89,271,cn,USA,Johnnie To,88,FALSE
@@ -221,26 +221,26 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 4,Maleficent,758410378,241410378,31.80,517000000,68.20,2014,"Fantasy, Adventure, Action, Family, Romance",1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,7.10,13106,en,USA,Robert Stromberg,144,FALSE
 5,The Hunger Games: Mockingjay - Part 1,755356711,337135885,44.60,418220826,55.40,2014,"Science Fiction, Adventure, Thriller",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6.81,15815,en,USA,Francis Lawrence,121,FALSE
 6,X-Men: Days of Future Past,746045700,233921534,31.40,512124166,68.60,2014,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.53,15319,en,USA,Bryan Singer,97,FALSE
-7,Captain America: The Winter Soldier,714421503,259766572,36.40,454654931,63.60,2014,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.66,18786,en,USA,"Anthony Russo, Joe Russo",123,FALSE
+7,Captain America: The Winter Soldier,714421503,259766572,36.40,454654931,63.60,2014,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.66,18786,en,USA,Anthony Russo,123,FALSE
 8,Dawn of the Planet of the Apes,710644566,208545589,29.30,502098977,70.70,2014,"Science Fiction, Action, Drama, Thriller",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,7.30,11440,en,USA,Matt Reeves,132,FALSE
 9,The Amazing Spider-Man 2,708982323,202853933,28.60,506128390,71.40,2014,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.50,13274,en,USA,Marc Webb,136,FALSE
 10,Interstellar,681070397,188020017,27.60,493050380,72.40,2014,"Adventure, Drama, Science Fiction",0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,8.40,35934,en,USA,Christopher Nolan,130,FALSE
-11,Big Hero 6,657827828,222527828,33.80,435300000,66.20,2014,"Adventure, Family, Animation, Action, Comedy",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.73,15640,en,USA,"Don Hall, Chris Williams",142,FALSE
+11,Big Hero 6,657827828,222527828,33.80,435300000,66.20,2014,"Adventure, Family, Animation, Action, Comedy",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.73,15640,en,USA,Don Hall,142,FALSE
 12,How to Train Your Dragon 2,621537519,177002924,28.50,444534595,71.50,2014,"Fantasy, Action, Adventure, Animation, Comedy, Family",1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.70,9603,en,USA,Dean DeBlois,169,FALSE
 13,American Sniper,547626372,350126372,63.90,197500000,36.10,2014,"War, Action",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7.40,12850,en,USA,Clint Eastwood,102,FALSE
 14,Godzilla,524976069,200676069,38.20,324300000,61.80,2014,"Action, Drama, Science Fiction",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,6.34,9122,en,USA,Gareth Edwards,102,FALSE
 15,Rio 2,498781117,131538435,26.40,367242682,73.60,2014,"Animation, Adventure, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.50,3485,en,USA,Carlos Saldanha,133,FALSE
 16,Teenage Mutant Ninja Turtles,485004754,191204754,39.40,293800000,60.60,2014,"Science Fiction, Action, Adventure, Comedy",1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5.92,6780,en,USA,Jonathan Liebesman,123,FALSE
-17,The Lego Movie,468060692,257760692,55.10,210300000,44.90,2014,"Animation, Family, Adventure, Comedy, Fantasy",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.42,7854,en,USA,"Phil Lord, Christopher Miller",101,FALSE
+17,The Lego Movie,468060692,257760692,55.10,210300000,44.90,2014,"Animation, Family, Adventure, Comedy, Fantasy",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.42,7854,en,USA,Phil Lord,101,FALSE
 18,Lucy,458863600,126663600,27.60,332200000,72.40,2014,"Action, Science Fiction",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.46,16026,en,USA,Luc Besson,101,FALSE
-19,Penguins of Madagascar,373515621,83850911,22.40,289664710,77.60,2014,"Family, Animation, Adventure, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.50,4162,en,USA,"Eric Darnell, Tom McGrath",100,FALSE
+19,Penguins of Madagascar,373515621,83850911,22.40,289664710,77.60,2014,"Family, Animation, Adventure, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.50,4162,en,USA,Eric Darnell,100,FALSE
 20,Edge of Tomorrow,370541256,100206256,27.00,270335000,73.00,2014,"Action, Science Fiction",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.63,13867,en,USA,Doug Liman,89,FALSE
 21,Gone Girl,369330363,167767189,45.40,201563174,54.60,2014,"Mystery, Thriller, Drama",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,7.89,18656,en,USA,David Fincher,92,FALSE
 22,Night at the Museum: Secret of the Tomb,363204635,113746621,31.30,249458014,68.70,2014,"Adventure, Comedy, Fantasy, Family",0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.22,5852,en,USA,Shawn Levy,113,FALSE
 23,Noah,359200044,101200044,28.20,258000000,71.80,2014,"Drama, Adventure",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.67,6210,en,USA,Darren Aronofsky,149,FALSE
 24,The Maze Runner,348319861,102427862,29.40,245891999,70.60,2014,"Action, Mystery, Science Fiction, Thriller",1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,7.19,17047,en,USA,Wes Ball,98,FALSE
 25,300: Rise of an Empire,337580051,106580051,31.60,231000000,68.40,2014,"Action, Drama, War",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6.12,6511,en,USA,Noam Murro,138,FALSE
-26,22 Jump Street,331333876,191719337,57.90,139614539,42.10,2014,"Crime, Comedy, Action",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6.84,7933,en,USA,"Phil Lord, Christopher Miller",113,FALSE
+26,22 Jump Street,331333876,191719337,57.90,139614539,42.10,2014,"Crime, Comedy, Action",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6.84,7933,en,USA,Phil Lord,113,FALSE
 27,The Fault in Our Stars,307166834,124872350,40.70,182294484,59.30,2014,"Romance, Drama",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7.60,11123,en,USA,Josh Boone,102,FALSE
 28,Divergent,288885818,150947895,52.30,137937923,47.70,2014,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.92,12802,en,USA,Neil Burger,112,FALSE
 29,Mr. Peabody & Sherman,275698039,111506430,40.40,164191609,59.60,2014,"Animation, Adventure, Family",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.72,2360,en,USA,Rob Minkoff,126,FALSE
@@ -261,7 +261,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 44,The Equalizer,192330738,101530738,52.80,90800000,47.20,2014,"Thriller, Action, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.30,9079,en,USA,Antoine Fuqua,132,FALSE
 45,Breakup Buddies,189017596,777896,0.40,188239700,99.60,2014,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.00,63,zh,USA,Ning Hao,109,FALSE
 49,The Grand Budapest Hotel,172936941,59301324,34.30,113635617,65.70,2014,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8.05,14844,en,USA,Wes Anderson,95,FALSE
-50,Dumb and Dumber To,169837010,86208010,50.80,83629000,49.20,2014,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.56,3160,en,USA,"Peter Farrelly, Bobby Farrelly",97,FALSE
+50,Dumb and Dumber To,169837010,86208010,50.80,83629000,49.20,2014,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.56,3160,en,USA,Peter Farrelly,97,FALSE
 51,Into the Storm,161502194,47602194,29.50,113900000,70.50,2014,"Action, Thriller",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.00,2027,en,USA,Steven Quale,99,FALSE
 52,Unbroken,161459297,115637895,71.60,45821402,28.40,2014,"Drama, War",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,7.40,4107,en,USA,Angelina Jolie,109,FALSE
 53,The Monuments Men,155641650,78031620,50.10,77610030,49.90,2014,"War, Drama, History, Action",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,6.06,3580,en,USA,George Clooney,89,FALSE
@@ -279,9 +279,9 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 65,Pompeii,117831631,23219748,19.70,94611883,80.30,2014,"Action, Adventure, History, Romance, Drama",1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,5.54,3222,en,USA,Paul W. S. Anderson,123,FALSE
 66,Seventh Son,114178613,17223265,15.10,96955348,84.90,2014,"Adventure, Fantasy",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5.51,2488,en,USA,Sergei Bodrov,85,FALSE
 67,The Purge: Anarchy,111928365,71962800,64.30,39965565,35.70,2014,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.64,6397,en,USA,James DeMonaco,105,FALSE
-69,The Boxtrolls,108255770,50837305,47.00,57418465,53.00,2014,"Animation, Comedy, Family, Fantasy",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.70,1673,en,USA,"Graham Annable, Anthony Stacchi",103,FALSE
+69,The Boxtrolls,108255770,50837305,47.00,57418465,53.00,2014,"Animation, Comedy, Family, Fantasy",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.70,1673,en,USA,Graham Annable,103,FALSE
 70,Horrible Bosses 2,107645357,54445357,50.60,53200000,49.40,2014,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.19,4114,en,USA,Sean Anders,105,FALSE
-71,The Breakup Guru,106980263,208959,0.20,106771304,99.80,2014,"Romance, Comedy",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.00,24,zh,USA,"Deng Chao, Yu Baimei",96,FALSE
+71,The Breakup Guru,106980263,208959,0.20,106771304,99.80,2014,"Romance, Comedy",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.00,24,zh,USA,Deng Chao,96,FALSE
 72,Ouija,103590271,50856010,49.10,52734261,50.90,2014,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5.10,2645,en,USA,Stiles White,108,FALSE
 73,Birdman or (The Unexpected Virtue of Ignorance),103215094,42340598,41.00,60874496,59.00,2014,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.46,12819,en,USA,Alejandro G. Iñárritu,116,TRUE
 74,Transcendence,103039258,23022309,22.30,80016949,77.70,2014,"Thriller, Science Fiction, Drama, Mystery",0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,6.04,5383,en,USA,Wally Pfister,89,FALSE
@@ -335,14 +335,14 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 146,"As Above, So Below",41898409,21321100,50.90,20577309,49.10,2014,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.72,3472,en,USA,John Erick Dowdle,93,FALSE
 147,This Is Where I Leave You,41296320,34296320,83.00,7000000,17.00,2014,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.60,1329,en,USA,Shawn Levy,103,FALSE
 149,The November Man,39661919,25018119,63.10,14643800,36.90,2014,"Crime, Action, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.11,1465,en,USA,Roger Donaldson,108,FALSE
-151,Sin City: A Dame to Kill For,39407616,13757804,34.90,25649812,65.10,2014,"Crime, Action, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.39,3825,en,USA,"Robert Rodriguez, Frank Miller",102,FALSE
+151,Sin City: A Dame to Kill For,39407616,13757804,34.90,25649812,65.10,2014,"Crime, Action, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.39,3825,en,USA,Robert Rodriguez,102,FALSE
 152,The Gambler,39280992,33680992,85.70,5600000,14.30,2014,"Thriller, Crime, Drama",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,6.01,1406,en,USA,Rupert Wyatt,111,FALSE
-153,Samba,39178695,151530,0.40,39027165,99.60,2014,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.34,934,fr,USA,"Éric Toledano, Olivier Nakache",118,FALSE
+153,Samba,39178695,151530,0.40,39027165,99.60,2014,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.34,934,fr,USA,Éric Toledano,118,FALSE
 154,Women Who Flirt,39156132,375495,1.00,38780637,99.00,2014,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5.29,34,zh,USA,Pang Ho-cheung,97,FALSE
 156,The Best of Me,38609668,26766213,69.30,11843455,30.70,2014,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7.50,2568,en,USA,Michael Hoffman,118,FALSE
 157,Million Dollar Arm,38483455,36457627,94.70,2025828,5.30,2014,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.73,613,en,USA,Craig Gillespie,124,FALSE
 158,But Always,38039248,430760,1.10,37608488,98.90,2014,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,5.80,16,cn,USA,Snow Zou,100,FALSE
-159,Devil's Due,36921560,15821461,42.90,21100099,57.10,2014,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4.60,518,en,USA,"Matt Bettinelli-Olpin, Tyler Gillett",89,FALSE
+159,Devil's Due,36921560,15821461,42.90,21100099,57.10,2014,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4.60,518,en,USA,Matt Bettinelli-Olpin,89,FALSE
 160,A Most Wanted Man,36233517,17237855,47.60,18995662,52.40,2014,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.48,1349,en,USA,Anton Corbijn,122,FALSE
 161,Kundo: Age of the Rampant,35941291,280958,0.80,35660333,99.20,2014,"Action, Drama",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.70,119,ko,USA,Yoon Jong-bin,137,FALSE
 163,The Water Diviner,35396641,4196641,11.90,31200000,88.10,2014,"War, Drama",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6.81,1229,en,USA,Russell Crowe,111,FALSE
@@ -365,7 +365,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 2,Jurassic World,1670400637,652270625,39.00,1018130012,61.00,2015,"Action, Adventure, Science Fiction, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6.70,20370,en,USA,Colin Trevorrow,124,FALSE
 3,Furious 7,1515047671,353007020,23.30,1162040651,76.70,2015,"Action, Thriller, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.23,10633,en,USA,James Wan,137,FALSE
 4,Avengers: Age of Ultron,1402805868,459005868,32.70,943800000,67.30,2015,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.27,23046,en,USA,Joss Whedon,141,FALSE
-5,Minions,1159398397,336045770,29.00,823352627,71.00,2015,"Family, Animation, Adventure, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.41,10550,en,USA,"Pierre Coffin, Kyle Balda",91,FALSE
+5,Minions,1159398397,336045770,29.00,823352627,71.00,2015,"Family, Animation, Adventure, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.41,10550,en,USA,Pierre Coffin,91,FALSE
 6,Spectre,880674609,200074609,22.70,680600000,77.30,2015,"Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.60,10515,en,USA,Sam Mendes,148,FALSE
 7,Inside Out,858294430,356461711,41.50,501832719,58.50,2015,"Animation, Family, Adventure, Drama, Comedy",0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,7.91,22076,en,USA,Pete Docter,95,FALSE
 8,Mission: Impossible - Rogue Nation,682714267,195042377,28.60,487671890,71.40,2015,"Action, Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.21,8837,en,USA,Christopher McQuarrie,131,FALSE
@@ -394,17 +394,17 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 32,Daddy's Home,242786137,150357137,61.90,92429000,38.10,2015,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.28,3196,en,USA,Sean Anders,96,FALSE
 33,Spy,235666219,110825712,47.00,124840507,53.00,2015,"Action, Comedy, Crime",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6.83,5998,en,USA,Paul Feig,120,FALSE
 34,Alvin and the Chipmunks: The Road Chip,234798636,85886987,36.60,148911649,63.40,2015,"Family, Adventure, Comedy, Music, Animation",0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,6.03,1630,en,USA,Walt Becker,92,FALSE
-35,Goodbye Mr. Loser,228122928,1293626,0.60,226829302,99.40,2015,"Romance, Comedy",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.90,118,zh,USA,"Yan Fei, Peng Damo",104,FALSE
+35,Goodbye Mr. Loser,228122928,1293626,0.60,226829302,99.40,2015,"Romance, Comedy",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.90,118,zh,USA,Yan Fei,104,FALSE
 36,Ted 2,215863606,81476385,37.70,134387221,62.30,2015,"Comedy, Fantasy",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.31,7465,en,USA,Seth MacFarlane,115,FALSE
 37,Tomorrowland,209035668,93436322,44.70,115599346,55.30,2015,"Adventure, Family, Mystery, Science Fiction",0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,6.28,6966,en,USA,Brad Bird,130,FALSE
 38,Everest,203427584,43482270,21.40,159945314,78.60,2015,"Adventure, Drama, History",0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6.82,4868,en,USA,Baltasar Kormákur,121,FALSE
 39,Straight Outta Compton,201634991,161197785,79.90,40437206,20.10,2015,"Drama, Music, History",0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,7.80,3886,en,USA,F. Gary Gray,147,FALSE
 40,The Intern,194764672,75764672,38.90,119000000,61.10,2015,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.22,6703,en,USA,Nancy Meyers,121,FALSE
-42,Jupiter Ascending,184287723,47387723,25.70,136900000,74.30,2015,"Science Fiction, Fantasy, Action",1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5.46,6741,en,USA,"Lana Wachowski, Lilly Wachowski",127,FALSE
+42,Jupiter Ascending,184287723,47387723,25.70,136900000,74.30,2015,"Science Fiction, Fantasy, Action",1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5.46,6741,en,USA,Lana Wachowski,127,FALSE
 43,Creed,174167581,109767581,63.00,64400000,37.00,2015,"Action, Drama",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.41,7436,en,USA,Ryan Coogler,133,FALSE
 44,Fantastic Four,167882881,56117548,33.40,111765333,66.60,2015,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4.42,5984,en,USA,Josh Trank,100,FALSE
 45,Bridge of Spies,165478348,72313754,43.70,93164594,56.30,2015,"Thriller, Drama",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,7.24,6816,en,USA,Steven Spielberg,142,FALSE
-47,Focus,159162963,53862963,33.80,105300000,66.20,2015,"Romance, Comedy, Crime",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,6.88,7830,en,USA,"Glenn Ficarra, John Requa",105,FALSE
+47,Focus,159162963,53862963,33.80,105300000,66.20,2015,"Romance, Comedy, Crime",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,6.88,7830,en,USA,Glenn Ficarra,105,FALSE
 48,Goosebumps,158260952,80080379,50.60,78180573,49.40,2015,"Adventure, Horror, Comedy",0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6.30,3759,en,USA,Rob Letterman,103,FALSE
 49,Ip Man 3,156954938,2679437,1.70,154275501,98.30,2015,"Action, Drama, History",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.02,1743,cn,USA,Wilson Yip,105,FALSE
 50,The Hateful Eight,155760117,54117416,34.70,101642701,65.30,2015,"Drama, Mystery, Western",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,7.80,14216,en,USA,Quentin Tarantino,168,FALSE
@@ -421,14 +421,14 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 65,Get Hard,111811453,90411453,80.90,21400000,19.10,2015,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.03,2696,en,USA,Etan Cohen,100,FALSE
 66,The Man from U.N.C.L.E.,110045109,45445109,41.30,64600000,58.70,2015,"Comedy, Action, Adventure",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.10,6330,en,USA,Guy Ritchie,116,FALSE
 68,Paul Blart: Mall Cop 2,107588225,71038190,66.00,36550035,34.00,2015,"Action, Comedy, Family",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5.16,1547,en,USA,Andy Fickman,93,FALSE
-69,Vacation,107228221,58884188,54.90,48344033,45.10,2015,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.31,3696,en,USA,"John Francis Daley, Jonathan Goldstein",99,FALSE
-71,Shaun the Sheep Movie,106209378,19375982,18.20,86833396,81.80,2015,"Family, Animation, Comedy, Adventure",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.00,1384,en,USA,"Mark Burton, Richard Starzak",85,FALSE
+69,Vacation,107228221,58884188,54.90,48344033,45.10,2015,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.31,3696,en,USA,John Francis Daley,99,FALSE
+71,Shaun the Sheep Movie,106209378,19375982,18.20,86833396,81.80,2015,"Family, Animation, Comedy, Adventure",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.00,1384,en,USA,Mark Burton,85,FALSE
 72,Sisters,105011053,87044645,82.90,17966408,17.10,2015,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.95,1371,en,USA,Jason Moore,118,FALSE
 73,Chappie,102811889,31569268,30.70,71242621,69.30,2015,"Crime, Action, Science Fiction",1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,6.80,7907,en,USA,Neill Blomkamp,120,FALSE
 74,Joy,101134059,56451232,55.80,44682827,44.20,2015,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.50,4081,en,USA,David O. Russell,124,FALSE
 75,Black Mass,99975678,62575678,62.60,37400000,37.40,2015,"Drama, Crime, History",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,6.50,3334,en,USA,Scott Cooper,123,FALSE
 76,Spotlight,98690254,45055776,45.70,53634478,54.30,2015,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.82,8222,en,USA,Tom McCarthy,129,TRUE
-77,Devil and Angel,98599942,131058,0.10,98468884,99.90,2015,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.30,13,zh,USA,"Deng Chao, Yu Baimei",124,FALSE
+77,Devil and Angel,98599942,131058,0.10,98468884,99.90,2015,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.30,13,zh,USA,Deng Chao,124,FALSE
 78,The Visit,98450062,65206105,66.20,33243957,33.80,2015,"Horror, Mystery",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,6.30,4746,en,USA,M. Night Shyamalan,94,FALSE
 79,The Little Prince,97571250,1339152,1.40,96232098,98.60,2015,"Adventure, Animation, Fantasy, Family",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.61,2786,en,USA,Mark Osborne,108,FALSE
 80,Assassination,96119773,1904682,2.00,94215091,98.00,2015,"Action, Adventure, Comedy, Science Fiction",1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.30,195,ja,USA,Choi Dong-hoon,140,FALSE
@@ -447,9 +447,9 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 99,War Room,73267874,67790117,92.50,5477757,7.50,2015,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.83,523,en,USA,Alex Kendrick,120,FALSE
 100,The Transporter Refueled,72629670,16029670,22.10,56600000,77.90,2015,"Action, Thriller, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,5.50,1484,en,USA,Camille Delamarre,96,FALSE
 101,Run All Night,71661644,26461644,36.90,45200000,63.10,2015,"Action, Crime, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.40,2785,en,USA,Jaume Collet-Serra,114,FALSE
-103,Running Man,68782475,310978,0.50,68471497,99.50,2015,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.30,10,zh,USA,"Hu Jia, Lu Hao",88,FALSE
+103,Running Man,68782475,310978,0.50,68471497,99.50,2015,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.30,10,zh,USA,Hu Jia,88,FALSE
 105,The Age of Adaline,65663276,42629776,64.90,23033500,35.10,2015,"Romance, Fantasy, Drama",0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,7.50,6638,en,USA,Lee Toland Krieger,112,FALSE
-107,Zhongkui: Snow Girl and the Dark Crystal,64325947,165428,0.30,64160519,99.70,2015,"Action, Fantasy, Romance",1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,5.20,38,zh,USA,"Peter Pau, Zhao Tianyu",118,FALSE
+107,Zhongkui: Snow Girl and the Dark Crystal,64325947,165428,0.30,64160519,99.70,2015,"Action, Fantasy, Romance",1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,5.20,38,zh,USA,Peter Pau,118,FALSE
 108,The Danish Girl,64191523,11114018,17.30,53077505,82.70,2015,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.60,5744,en,USA,Tom Hooper,119,FALSE
 109,The Boy,64188367,35819556,55.80,28368811,44.20,2015,"Drama, Horror, Thriller",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,5.80,182,en,USA,William Brent Bell,97,FALSE
 111,The Longest Ride,62944815,37446117,59.50,25498698,40.50,2015,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7.63,3133,en,USA,George Tillman Jr.,128,FALSE
@@ -467,7 +467,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 125,Prem Ratan Dhan Payo,52715771,4364639,8.30,48351132,91.70,2015,"Romance, Drama, Action",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,5.32,110,hi,USA,Sooraj Barjatya,164,FALSE
 126,The Boy Next Door,52425855,35423380,67.60,17002475,32.40,2015,Thriller,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4.90,2025,en,USA,Rob Cohen,91,FALSE
 127,The Night Before,52395996,43047372,82.20,9348624,17.80,2015,"Comedy, Adventure, Fantasy",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.10,1684,en,USA,Jonathan Levine,101,FALSE
-129,"Yo-kai Watch Movie: It's the Secret of Birth, Meow!",51838845,257343,0.50,51581502,99.50,2015,"Animation, Family, Fantasy, Adventure",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.20,40,ja,USA,"Shigeharu Takahashi, Shinji Ushiro",97,FALSE
+129,"Yo-kai Watch Movie: It's the Secret of Birth, Meow!",51838845,257343,0.50,51581502,99.50,2015,"Animation, Family, Fantasy, Adventure",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.20,40,ja,USA,Shigeharu Takahashi,97,FALSE
 130,Hot Pursuit,51680201,34580201,66.90,17100000,33.10,2015,"Action, Comedy",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.71,1594,en,USA,Anne Fletcher,87,FALSE
 131,The Himalayas,50544493,696717,1.40,49847776,98.60,2015,"Adventure, Drama",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.67,27,ko,USA,Lee Seok-hoon,124,FALSE
 132,The Boy and the Beast,49714378,490643,1.00,49223735,99.00,2015,"Action, Adventure, Animation, Drama, Family, Fantasy",1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,7.96,1478,ja,USA,Mamoru Hosoda,119,FALSE
@@ -479,11 +479,11 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 142,Somewhere Only We Know,45737711,482341,1.10,45255370,98.90,2015,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.09,22,zh,USA,Xu Jinglei,109,FALSE
 143,"McFarland, USA",45710059,44482410,97.30,1227649,2.70,2015,"Drama, Family",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,7.40,821,en,USA,Niki Caro,129,FALSE
 144,Hero,45565534,88675,0.20,45476859,99.80,2015,"Romance, Comedy, Drama, Crime",0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,6.00,29,ja,USA,Nikhil Advani,132,FALSE
-145,Still Alice,44779195,18754371,41.90,26024824,58.10,2015,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.49,3066,en,USA,"Richard Glatzer, Wash Westmoreland",101,FALSE
+145,Still Alice,44779195,18754371,41.90,26024824,58.10,2015,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.49,3066,en,USA,Richard Glatzer,101,FALSE
 146,Max,43956255,42656255,97.00,1300000,3.00,2015,"Adventure, Drama, Family",0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,7.16,820,en,USA,Boaz Yakin,111,FALSE
 147,The DUFF,43709744,34030343,77.90,9679401,22.10,2015,"Romance, Comedy",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.78,4354,en,USA,Ari Sandel,101,FALSE
 148,Legend,42972994,1872994,4.40,41100000,95.60,2015,"Crime, Thriller",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.06,3868,en,USA,Brian Helgeland,132,FALSE
-149,The Gallows,42964410,22764410,53.00,20200000,47.00,2015,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,4.90,928,en,USA,"Travis Cluff, Chris Lofing",81,FALSE
+149,The Gallows,42964410,22764410,53.00,20200000,47.00,2015,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,4.90,928,en,USA,Travis Cluff,81,FALSE
 150,Love the Coopers,42426912,26302731,62.00,16124181,38.00,2015,"Comedy, Family, Drama",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,5.97,792,en,USA,Jessie Nelson,107,FALSE
 152,The Lady in the Van,41387687,10021175,24.20,31366512,75.80,2015,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.42,740,en,USA,Nicholas Hytner,104,FALSE
 153,Ricki and the Flash,41325328,26822144,64.90,14503184,35.10,2015,"Comedy, Drama, Music",0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,5.79,703,en,USA,Jonathan Demme,101,FALSE
@@ -517,12 +517,12 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 191,Detective K: Secret of the Lost Island,27387870,185367,0.70,27202503,99.30,2015,"Action, Mystery, Comedy",1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6.60,22,ko,USA,Kim Suk-yoon,125,FALSE
 193,American Ultra,27262374,14440985,53.00,12821389,47.00,2015,"Action, Comedy",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.09,2757,en,USA,Nima Nourizadeh,96,FALSE
 195,Aloha,26250020,21067116,80.30,5182904,19.70,2015,"Drama, Comedy, Romance",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,5.51,2030,en,USA,Cameron Crowe,105,FALSE
-196,Huevos: Little Rooster's Egg-cellent Adventure,25892561,9080818,35.10,16811743,64.90,2015,"Animation, Adventure, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.90,208,es,USA,"Gabriel Riva Palacio Alatriste, Rodolfo Riva Palacio Alatriste",98,FALSE
+196,Huevos: Little Rooster's Egg-cellent Adventure,25892561,9080818,35.10,16811743,64.90,2015,"Animation, Adventure, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.90,208,es,USA,Gabriel Riva Palacio Alatriste,98,FALSE
 200,Wild City,24817852,34866,0.10,24782986,99.90,2015,"Thriller, Action, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,5.67,32,cn,USA,Ringo Lam,120,FALSE
-1,Captain America: Civil War,1153296293,408084349,35.40,745211944,64.60,2016,"Adventure, Action, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.44,22743,en,USA,"Anthony Russo, Joe Russo",147,FALSE
+1,Captain America: Civil War,1153296293,408084349,35.40,745211944,64.60,2016,"Adventure, Action, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.44,22743,en,USA,Anthony Russo,147,FALSE
 2,Rogue One: A Star Wars Story,1056057273,532177324,50.40,523879949,49.60,2016,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.50,15278,en,USA,Gareth Edwards,133,FALSE
 3,Finding Dory,1028570889,486295561,47.30,542275328,52.70,2016,"Adventure, Animation, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.04,12043,en,USA,Andrew Stanton,97,FALSE
-4,Zootopia,1023784195,341268248,33.30,682515947,66.70,2016,"Animation, Adventure, Family, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.75,16374,en,USA,"Byron Howard, Rich Moore",108,FALSE
+4,Zootopia,1023784195,341268248,33.30,682515947,66.70,2016,"Animation, Adventure, Family, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.75,16374,en,USA,Byron Howard,108,FALSE
 5,The Jungle Book,966550600,364001123,37.70,602549477,62.30,2016,"Family, Adventure, Drama, Fantasy",0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6.87,8036,en,USA,Jon Favreau,106,FALSE
 6,The Secret Life of Pets,875697467,368623860,42.10,507073607,57.90,2016,"Adventure, Comedy, Animation, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.29,8054,en,USA,Chris Renaud,87,FALSE
 7,Batman v Superman: Dawn of Justice,874360194,330360194,37.80,544000000,62.20,2016,"Action, Adventure, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5.97,17998,en,USA,Zack Snyder,151,FALSE
@@ -530,11 +530,11 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 9,Deadpool,782612155,363070709,46.40,419541446,53.60,2016,"Action, Adventure, Comedy",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.62,31141,en,USA,Tim Miller,108,FALSE
 10,Suicide Squad,749200054,325100054,43.40,424100000,56.60,2016,"Action, Adventure, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5.90,21143,en,USA,David Ayer,123,FALSE
 11,Doctor Strange,677718395,232641920,34.30,445076475,65.70,2016,"Action, Adventure, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7.42,22171,en,USA,Scott Derrickson,115,FALSE
-12,Moana,643331111,248757044,38.70,394574067,61.30,2016,"Adventure, Comedy, Family, Animation",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.60,12650,en,USA,"Ron Clements, John Musker",107,FALSE
+12,Moana,643331111,248757044,38.70,394574067,61.30,2016,"Adventure, Comedy, Family, Animation",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.60,12650,en,USA,Ron Clements,107,FALSE
 13,Sing,634151679,270395425,42.60,363756254,57.40,2016,"Animation, Comedy, Family, Music",0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,7.11,7939,en,USA,Garth Jennings,108,FALSE
 14,The Mermaid,553810228,3232685,0.60,550577543,99.40,2016,"Comedy, Fantasy, Romance",0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,6.52,409,zh,USA,Stephen Chow,93,FALSE
 15,X-Men: Apocalypse,543934105,155442489,28.60,388491616,71.40,2016,"Action, Adventure, Science Fiction, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,6.50,12982,en,USA,Bryan Singer,144,FALSE
-16,Kung Fu Panda 3,521170825,143528619,27.50,377642206,72.50,2016,"Action, Adventure, Animation, Comedy, Family",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.91,6051,en,USA,"Jennifer Yuh Nelson, Alessandro Carloni",95,FALSE
+16,Kung Fu Panda 3,521170825,143528619,27.50,377642206,72.50,2016,"Action, Adventure, Animation, Comedy, Family",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.91,6051,en,USA,Jennifer Yuh Nelson,95,FALSE
 17,La La Land,447407695,151101803,33.80,296305892,66.20,2016,"Comedy, Drama, Romance, Music",0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,7.90,16907,en,USA,Damien Chazelle,128,FALSE
 18,Warcraft,439048914,47365290,10.80,391683624,89.20,2016,"Action, Adventure, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.38,6782,en,USA,Duncan Jones,123,FALSE
 19,Jason Bourne,415484914,162434410,39.10,253050504,60.90,2016,"Action, Thriller",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.36,5705,en,USA,Paul Greengrass,123,FALSE
@@ -542,7 +542,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 21,Independence Day: Resurgence,389681935,103144286,26.50,286537649,73.50,2016,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5.33,6044,en,USA,Roland Emmerich,120,FALSE
 22,Your Name.,357986087,5017246,1.40,352968841,98.60,2016,"Animation, Romance, Drama",0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,8.49,11464,ja,USA,Makoto Shinkai,106,FALSE
 23,The Legend of Tarzan,357243061,126643061,35.50,230600000,64.50,2016,"Fantasy, Action, Adventure",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5.91,6215,en,USA,David Yates,110,FALSE
-24,The Angry Birds Movie,352333929,107509366,30.50,244824563,69.50,2016,"Animation, Adventure, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.23,3664,en,USA,"Clay Kaytis, Fergal Reilly",97,FALSE
+24,The Angry Birds Movie,352333929,107509366,30.50,244824563,69.50,2016,"Animation, Adventure, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.23,3664,en,USA,Clay Kaytis,97,FALSE
 25,Trolls,347013487,153856089,44.30,193157398,55.70,2016,"Family, Animation, Fantasy, Adventure, Comedy, Music",0,1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,6.60,3588,en,USA,Mike Mitchell,92,FALSE
 26,Star Trek Beyond,343471816,158848340,46.20,184623476,53.80,2016,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.79,6617,en,USA,Justin Lin,122,FALSE
 27,The Great Wall,334933831,45540830,13.60,289393001,86.40,2016,"Action, Adventure, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.00,5121,en,USA,Zhang Yimou,103,FALSE
@@ -566,8 +566,8 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 45,Arrival,203388186,100546139,49.40,102842047,50.60,2016,"Drama, Science Fiction, Mystery",0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,7.61,17803,en,USA,Denis Villeneuve,116,FALSE
 46,The BFG,195243411,55483770,28.40,139759641,71.60,2016,"Adventure, Family, Fantasy",0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.28,3365,en,USA,Steven Spielberg,117,FALSE
 47,The Monkey King 2,193678298,709982,0.40,192968316,99.60,2016,"Action, Adventure, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5.94,97,zh,USA,Soi Cheang,119,FALSE
-48,Bad Moms,183936074,113257297,61.60,70678777,38.40,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.50,4065,en,USA,"Jon Lucas, Scott Moore",100,FALSE
-49,Storks,183679278,72679278,39.60,111000000,60.40,2016,"Adventure, Animation, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.66,2332,en,USA,"Nicholas Stoller, Doug Sweetland",87,FALSE
+48,Bad Moms,183936074,113257297,61.60,70678777,38.40,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.50,4065,en,USA,Jon Lucas,100,FALSE
+49,Storks,183679278,72679278,39.60,111000000,60.40,2016,"Adventure, Animation, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.66,2332,en,USA,Nicholas Stoller,87,FALSE
 51,Hacksaw Ridge,180563636,67209615,37.20,113354021,62.80,2016,"Drama, History, War",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,8.20,13783,en,USA,Mel Gibson,139,FALSE
 52,Allegiant,179246868,66184051,36.90,113062817,63.10,2016,"Adventure, Science Fiction, Action, Mystery",1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,6.10,6607,en,USA,Robert Schwentke,120,FALSE
 53,Operation Mekong,173839072,800012,0.50,173039060,99.50,2016,"Action, Adventure, Crime, War",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,7.00,246,zh,USA,Dante Lam,124,FALSE
@@ -579,7 +579,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 59,The Accountant,155560045,86260045,55.50,69300000,44.50,2016,"Crime, Thriller, Drama",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,7.09,6162,en,USA,Gavin O'Connor,128,FALSE
 60,Lights Out,149368835,67268835,45.00,82100000,55.00,2016,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6.36,3868,en,USA,David F. Sandberg,81,FALSE
 62,Pete's Dragon,143695338,76233151,53.10,67462187,46.90,2016,"Adventure, Family, Fantasy",0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.38,2184,en,USA,David Lowery,102,FALSE
-63,Sausage Party,140705322,97685686,69.40,43019636,30.60,2016,"Adventure, Animation, Comedy, Fantasy",0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5.75,7279,en,USA,"Conrad Vernon, Greg Tiernan",89,FALSE
+63,Sausage Party,140705322,97685686,69.40,43019636,30.60,2016,"Adventure, Animation, Comedy, Fantasy",0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5.75,7279,en,USA,Conrad Vernon,89,FALSE
 64,Lion,140312928,51738905,36.90,88574023,63.10,2016,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8.10,6546,en,USA,Garth Davis,118,FALSE
 66,Mechanic: Resurrection,125729635,21218403,16.90,104511232,83.10,2016,"Action, Crime, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.02,3360,en,USA,Dennis Gansel,98,FALSE
 67,Deepwater Horizon,121790373,61433527,50.40,60356846,49.60,2016,"Drama, Action",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.88,4519,en,USA,Peter Berg,107,FALSE
@@ -588,13 +588,13 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 70,The Shallows,119100758,55124043,46.30,63976715,53.70,2016,"Horror, Drama, Thriller",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,6.30,5054,en,USA,Jaume Collet-Serra,86,FALSE
 71,The Purge: Election Year,118587880,79213375,66.80,39374505,33.20,2016,"Action, Horror, Thriller",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.39,5233,en,USA,James DeMonaco,109,FALSE
 72,Why Him?,118102725,60323786,51.10,57778939,48.90,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.38,4163,en,USA,John Hamburg,111,FALSE
-74,Office Christmas Party,114501299,54767494,47.80,59733805,52.20,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.69,2059,en,USA,"Will Speck, Josh Gordon",105,FALSE
+74,Office Christmas Party,114501299,54767494,47.80,59733805,52.20,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.69,2059,en,USA,Will Speck,105,FALSE
 75,How to Be Single,112543513,46843513,41.60,65700000,58.40,2016,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.26,3195,en,USA,Christian Ditter,110,FALSE
 76,10 Cloverfield Lane,110216998,72082998,65.40,38134000,34.60,2016,"Thriller, Science Fiction, Drama, Horror",0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,7.00,7927,en,USA,Dan Trachtenberg,103,FALSE
 77,Neighbors 2: Sorority Rising,108007109,55455765,51.30,52551344,48.70,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.82,4395,en,USA,Nicholas Stoller,92,FALSE
-78,Cold War 2,103197501,560824,0.50,102636677,99.50,2016,"Action, Thriller, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.30,100,cn,USA,"Longman Leung, Sunny Luk",110,FALSE
+78,Cold War 2,103197501,560824,0.50,102636677,99.50,2016,"Action, Thriller, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.30,100,cn,USA,Longman Leung,110,FALSE
 79,Railroad Tigers,102205175,218044,0.20,101987131,99.80,2016,"Action, Adventure, Comedy, Family, War",1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,6.00,134,zh,USA,Ding Sheng,124,FALSE
-80,Some Like It Hot,95721752,100026,0.10,95621726,99.90,2016,"Comedy, Romance, Crime",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,8.09,3476,en,USA,"Song Xiaofei, Dong Xu",113,FALSE
+80,Some Like It Hot,95721752,100026,0.10,95621726,99.90,2016,"Comedy, Romance, Crime",0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,8.09,3476,en,USA,Song Xiaofei,113,FALSE
 81,Dirty Grandpa,94073028,35593113,37.80,58479915,62.20,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.93,4365,en,USA,Dan Mazer,102,FALSE
 82,Ben-Hur,94061311,26410477,28.10,67650834,71.90,2016,"Action, History, Adventure, Drama",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,5.74,1659,en,USA,Timur Bekmambetov,123,FALSE
 83,Money Monster,93282604,41012075,44.00,52270529,56.00,2016,"Thriller, Drama",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,6.40,2934,en,USA,Jodie Foster,98,FALSE
@@ -603,13 +603,13 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 86,Collateral Beauty,88616021,31016021,35.00,57600000,65.00,2016,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7.22,5366,en,USA,David Frankel,97,FALSE
 88,Sultan,87280000,6200000,7.10,81080000,92.90,2016,"Drama, Action, Romance",1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.90,220,hi,USA,Ali Abbas Zafar,170,FALSE
 89,War Dogs,86434523,43034523,49.80,43400000,50.20,2016,"Comedy, Crime, Drama",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6.90,4915,en,USA,Todd Phillips,114,FALSE
-91,Nerve,85251425,38583626,45.30,46667799,54.70,2016,"Mystery, Adventure, Crime",0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,7.02,6773,en,USA,"Henry Joost, Ariel Schulman",96,FALSE
-92,Leap!,84197417,2844490,3.40,81352927,96.60,2016,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.60,5,zh,USA,"Éric Summer, Éric Warin",89,FALSE
+91,Nerve,85251425,38583626,45.30,46667799,54.70,2016,"Mystery, Adventure, Crime",0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,7.02,6773,en,USA,Henry Joost,96,FALSE
+92,Leap!,84197417,2844490,3.40,81352927,96.60,2016,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.60,5,zh,USA,Éric Summer,89,FALSE
 93,Ouija: Origin of Evil,81705746,35144505,43.00,46561241,57.00,2016,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6.10,2460,en,USA,Mike Flanagan,99,FALSE
 94,Underworld: Blood Wars,81093313,30353973,37.40,50739340,62.60,2016,"Fantasy, Action, Thriller",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,5.88,3659,en,USA,Anna Foerster,91,FALSE
 95,Manchester by the Sea,78988148,47695371,60.40,31292777,39.60,2016,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.50,5834,en,USA,Kenneth Lonergan,137,FALSE
 96,The Boss,78844582,63285885,80.30,15558697,19.70,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.83,1320,en,USA,Ben Falcone,99,FALSE
-97,Shin Godzilla,77947607,1918403,2.50,76029204,97.50,2016,"Action, Science Fiction, Horror",1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,7.20,1308,ja,USA,"Hideaki Anno, Shinji Higuchi",120,FALSE
+97,Shin Godzilla,77947607,1918403,2.50,76029204,97.50,2016,"Action, Science Fiction, Horror",1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,7.20,1308,ja,USA,Hideaki Anno,120,FALSE
 98,Mike and Dave Need Wedding Dates,77068246,46009673,59.70,31058573,40.30,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.06,2468,en,USA,Jake Szymanski,98,FALSE
 99,Kubo and the Two Strings,76249438,48023088,63.00,28226350,37.00,2016,"Animation, Adventure, Family",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.64,3566,en,USA,Travis Knight,101,FALSE
 101,Boo! A Madea Halloween,74827344,73206343,97.80,1621001,2.20,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.70,411,en,USA,Tyler Perry,103,FALSE
@@ -620,7 +620,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 107,Moonlight,65172611,27854932,42.70,37317679,57.30,2016,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.38,7037,en,USA,Barry Jenkins,111,TRUE
 108,Monster Trucks,64493915,33370166,51.70,31123749,48.30,2016,"Action, Comedy, Science Fiction",1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.10,853,en,USA,Chris Wedge,104,FALSE
 109,Fences,64414761,57682904,89.50,6731857,10.50,2016,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.86,2604,en,USA,Denzel Washington,139,FALSE
-110,"Hail, Caesar!",63647656,30498085,47.90,33149571,52.10,2016,"Comedy, Crime, Mystery",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5.92,3750,en,USA,"Joel Coen, Ethan Coen",106,FALSE
+110,"Hail, Caesar!",63647656,30498085,47.90,33149571,52.10,2016,"Comedy, Crime, Mystery",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5.92,3750,en,USA,Joel Coen,106,FALSE
 111,Chongqing Hot Pot,58106427,779818,1.30,57326609,98.70,2016,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.30,57,zh,USA,Yang Qing,94,FALSE
 112,L.O.R.D: Legend of Ravaging Dynasties,58089494,350456,0.60,57739038,99.40,2016,"Animation, Fantasy, Drama, Science Fiction",0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,7.00,132,zh,USA,Guo Jingming,118,FALSE
 113,Nine Lives,57814445,19700032,34.10,38114413,65.90,2016,"Fantasy, Comedy, Family",0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,5.80,1066,en,USA,Barry Sonnenfeld,87,FALSE
@@ -644,7 +644,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 137,League of Gods,43498766,181633,0.40,43317133,99.60,2016,"Action, Fantasy",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5.60,152,zh,USA,Koan Hui,109,FALSE
 138,Almost Christmas,42580920,42158780,99.00,422140,1.00,2016,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.90,362,en,USA,David E. Talbert,111,FALSE
 139,The Witch,40423945,25138705,62.20,15285240,37.80,2016,"Horror, Drama, Mystery",0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,6.97,6965,en,USA,Robert Eggers,92,FALSE
-140,The Wild Life,40075446,8005586,20.00,32069860,80.00,2016,"Animation, Adventure, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5.80,332,de,USA,"Vincent Kesteloot, Ben Stassen",90,FALSE
+140,The Wild Life,40075446,8005586,20.00,32069860,80.00,2016,"Animation, Adventure, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5.80,332,de,USA,Vincent Kesteloot,90,FALSE
 142,The Forest,39712000,26594261,67.00,13117739,33.00,2016,"Horror, Thriller, Mystery",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,5.23,1735,en,USA,Jason Zada,93,FALSE
 143,Absolutely Fabulous: The Movie,39219109,4772155,12.20,34446954,87.80,2016,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.30,241,en,USA,Mandie Fletcher,90,FALSE
 147,Hell or High Water,37879877,27007844,71.30,10872033,28.70,2016,"Western, Crime, Drama",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,7.30,4444,en,USA,David Mackenzie,102,FALSE
@@ -665,11 +665,11 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 175,The Brothers Grimsby,27979040,6874837,24.60,21104203,75.40,2016,"Action, Comedy",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.95,2279,en,USA,Louis Leterrier,83,FALSE
 178,The Light Between Oceans,25975621,12545979,48.30,13429642,51.70,2016,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7.10,1348,en,USA,Derek Cianfrance,133,FALSE
 179,A Beautiful Planet,25730120,15650615,60.80,10079505,39.20,2016,"Documentary, Adventure, Family",0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,6.93,68,en,USA,Toni Myers,45,FALSE
-180,Mr. Donkey,25537759,356255,1.40,25181504,98.60,2016,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.20,59,zh,USA,"Liu Lu, Zhou Shen",111,FALSE
+180,Mr. Donkey,25537759,356255,1.40,25181504,98.60,2016,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.20,59,zh,USA,Liu Lu,111,FALSE
 181,Born in China,25081168,13873211,55.30,11207957,44.70,2016,Documentary,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7.30,160,zh,USA,Lu Chuan,79,FALSE
 182,Race,25070261,19206207,76.60,5864054,23.40,2016,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.30,1524,en,USA,Stephen Hopkins,134,FALSE
 184,Free State of Jones,25035950,20810036,83.10,4225914,16.90,2016,"Action, Drama, History, War",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,6.80,1492,en,USA,Gary Ross,139,FALSE
-185,Whiskey Tango Foxtrot,24972139,23083334,92.40,1888805,7.60,2016,"Comedy, Drama, War",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6.30,964,en,USA,"Glenn Ficarra, John Requa",112,FALSE
+185,Whiskey Tango Foxtrot,24972139,23083334,92.40,1888805,7.60,2016,"Comedy, Drama, War",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,6.30,964,en,USA,Glenn Ficarra,112,FALSE
 188,God's Not Dead 2,24487848,20774575,84.80,3713273,15.20,2016,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.08,403,en,USA,Harold Cronk,120,FALSE
 190,The Founder,24121245,12786053,53.00,11335192,47.00,2016,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.13,4934,en,USA,John Lee Hancock,115,FALSE
 191,Bad Santa 2,24079268,17782178,73.80,6297090,26.20,2016,"Comedy, Crime, Mystery",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5.41,792,en,USA,Mark Waters,92,FALSE
@@ -683,7 +683,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 1,Star Wars: Episode VIII - The Last Jedi,1332539889,620181382,46.50,712358507,53.50,2017,"Adventure, Action, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.79,15319,en,USA,Rian Johnson,152,FALSE
 2,Beauty and the Beast,1263521126,504014165,39.90,759506961,60.10,2017,"Family, Fantasy, Romance",0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,6.97,15454,en,USA,Bill Condon,129,FALSE
 3,The Fate of the Furious,1236005118,226008385,18.30,1009996733,81.70,2017,"Action, Crime, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.87,10282,en,USA,F. Gary Gray,136,FALSE
-4,Despicable Me 3,1034799409,264624300,25.60,770175109,74.40,2017,"Action, Animation, Comedy, Family, Adventure",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.47,7166,en,USA,"Pierre Coffin, Kyle Balda",89,FALSE
+4,Despicable Me 3,1034799409,264624300,25.60,770175109,74.40,2017,"Action, Animation, Comedy, Family, Adventure",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.47,7166,en,USA,Pierre Coffin,89,FALSE
 5,Jumanji: Welcome to the Jungle,962077546,404515480,42.00,557562066,58.00,2017,"Adventure, Comedy, Fantasy",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.82,13624,en,USA,Jake Kasdan,119,FALSE
 6,Spider-Man: Homecoming,880166924,334201140,38.00,545965784,62.00,2017,"Action, Adventure, Science Fiction, Drama",1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,7.33,21845,en,USA,Jon Watts,133,FALSE
 7,Wolf Warrior 2,870325439,2721100,0.30,867604339,99.70,2017,"War, Action, Thriller",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,6.54,283,zh,USA,Wu Jing,126,FALSE
@@ -691,7 +691,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 9,Thor: Ragnarok,853977126,315058289,36.90,538918837,63.10,2017,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.59,20786,en,USA,Taika Waititi,130,FALSE
 10,Wonder Woman,822963408,412563408,50.10,410400000,49.90,2017,"Action, Adventure, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7.22,19957,en,USA,Patty Jenkins,141,FALSE
 11,Coco,814641172,210460015,25.80,604181157,74.20,2017,"Family, Animation, Music, Adventure",0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,8.21,19589,en,USA,Lee Unkrich,105,FALSE
-12,Pirates of the Caribbean: Dead Men Tell No Tales,794861794,172558876,21.70,622302918,78.30,2017,"Adventure, Action, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.65,11995,en,USA,"Joachim Rønning, Espen Sandberg",129,FALSE
+12,Pirates of the Caribbean: Dead Men Tell No Tales,794861794,172558876,21.70,622302918,78.30,2017,"Adventure, Action, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.65,11995,en,USA,Joachim Rønning,129,FALSE
 13,It,702781748,327481748,46.60,375300000,53.40,2017,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,7.20,19091,en,USA,Andy Muschietti,135,FALSE
 14,Justice League,661324295,229024295,34.60,432300000,65.40,2017,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.08,12969,en,USA,Zack Snyder,120,FALSE
 15,Logan,619021436,226277068,36.60,392744368,63.40,2017,"Action, Drama, Science Fiction",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,7.80,19307,en,USA,James Mangold,137,FALSE
@@ -743,23 +743,23 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 62,Power Rangers,142337240,85364450,60.00,56972790,40.00,2017,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.26,4407,en,USA,Dean Israelite,124,FALSE
 63,Girls Trip,140552359,115171585,81.90,25380774,18.10,2017,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.83,1498,en,USA,Malcolm D. Lee,122,FALSE
 64,American Made,134866593,51342000,38.10,83524593,61.90,2017,"Comedy, Crime, Drama",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6.88,4510,en,USA,Doug Liman,115,FALSE
-65,A Bad Moms Christmas,130560428,72110659,55.20,58449769,44.80,2017,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.31,2074,en,USA,"Jon Lucas, Scott Moore",104,FALSE
+65,A Bad Moms Christmas,130560428,72110659,55.20,58449769,44.80,2017,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.31,2074,en,USA,Jon Lucas,104,FALSE
 66,Happy Death Day,125479266,55683845,44.40,69795421,55.60,2017,"Comedy, Horror, Mystery",0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,6.60,6122,en,USA,Christopher Landon,96,FALSE
 67,Captain Underpants: The First Epic Movie,125427681,73921000,58.90,51506681,41.10,2017,"Action, Animation, Comedy, Family",1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.23,1211,en,USA,David Soren,89,FALSE
-68,The Lego Ninjago Movie,123681555,59281555,47.90,64400000,52.10,2017,"Family, Animation, Action, Adventure, Comedy",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.50,1054,en,USA,"Charlie Bean, Paul Fisher, Bob Logan",101,FALSE
+68,The Lego Ninjago Movie,123681555,59281555,47.90,64400000,52.10,2017,"Family, Animation, Action, Adventure, Comedy",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.50,1054,en,USA,Charlie Bean,101,FALSE
 72,The Dark Tower,113231078,50701325,44.80,62529753,55.20,2017,"Fantasy, Action, Science Fiction",1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5.75,5093,en,USA,Nikolaj Arcel,95,FALSE
 73,Buddies in India,110155128,293194,0.30,109861934,99.70,2017,"Comedy, Action, Adventure",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.50,13,zh,USA,Wang Baoqiang,100,FALSE
 74,Along With the Gods: The Two Worlds,109383972,1908823,1.70,107475149,98.30,2017,"Action, Adventure, Drama, Fantasy, Thriller",1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,8.08,1048,ko,USA,Kim Yong-hwa,139,FALSE
-76,Jigsaw,102952888,38052832,37.00,64900056,63.00,2017,"Horror, Mystery, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.22,3676,en,USA,"Michael Spierig, Peter Spierig",92,FALSE
+76,Jigsaw,102952888,38052832,37.00,64900056,63.00,2017,"Horror, Mystery, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.22,3676,en,USA,Michael Spierig,92,FALSE
 77,Life,100541806,30234022,30.10,70307784,69.90,2017,"Horror, Science Fiction, Mystery, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,6.44,7350,en,USA,Daniel Espinosa,104,FALSE
 78,Atomic Blonde,100014025,51687870,51.70,48326155,48.30,2017,"Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.43,6197,en,USA,David Leitch,115,FALSE
 80,The Shack,96942115,57386418,59.20,39555697,40.80,2017,"Drama, Fantasy",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,7.49,2129,en,USA,Stuart Hazeldine,132,FALSE
-81,Chasing the Dragon,87965942,456854,0.50,87509088,99.50,2017,"Action, Crime, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.92,114,cn,USA,"Wong Jing, Jason Kwan",128,FALSE
+81,Chasing the Dragon,87965942,456854,0.50,87509088,99.50,2017,"Action, Crime, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.92,114,cn,USA,Wong Jing,128,FALSE
 82,Tiger Zinda Hai,87320000,5560921,6.40,81759079,93.60,2017,"Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.09,147,hi,USA,Ali Abbas Zafar,161,FALSE
 83,A Taxi Driver,86252940,1527829,1.80,84725111,98.20,2017,"Action, Drama, History",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,8.08,984,ko,USA,Hun Jang,137,FALSE
 84,Going in Style,85218541,45018541,52.80,40200000,47.20,2017,"Crime, Comedy",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6.71,2782,en,USA,Zach Braff,96,FALSE
 85,Rings,83080890,27793018,33.50,55287872,66.50,2017,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5.00,2486,en,USA,F. Javier Gutiérrez,102,FALSE
-86,Once Upon A Time,82886178,485728,0.60,82400450,99.40,2017,"Drama, Western",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,8.29,4372,it,USA,"Zhao Xiaoding, Anthony LaMolinara",109,FALSE
+86,Once Upon A Time,82886178,485728,0.60,82400450,99.40,2017,"Drama, Western",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,8.29,4372,it,USA,Zhao Xiaoding,109,FALSE
 88,Lady Bird,78965611,48958273,62.00,30007338,38.00,2017,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.26,8504,en,USA,Greta Gerwig,94,FALSE
 90,The Nut Job 2: Nutty by Nature,68743485,28370522,41.30,40372963,58.70,2017,"Animation, Family, Adventure, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.00,405,en,USA,Cal Brunker,91,FALSE
 91,American Assassin,67234188,36249674,53.90,30984514,46.10,2017,"Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.41,3000,en,USA,Michael Cuesta,112,FALSE
@@ -784,7 +784,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 118,Boo 2! A Madea Halloween,48333932,47319572,97.90,1014360,2.10,2017,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.74,476,en,USA,Tyler Perry,89,FALSE
 120,Phantom Thread,47756590,21198205,44.40,26558385,55.60,2017,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7.32,3475,en,USA,Paul Thomas Anderson,130,FALSE
 121,Rough Night,47347283,22105643,46.70,25241640,53.30,2017,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.70,1988,en,USA,Lucia Aniello,101,FALSE
-122,Son of Bigfoot,47046281,289308,0.60,46756973,99.40,2017,"Family, Animation, Comedy",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.50,482,en,USA,"Ben Stassen, Jérémie Degruson",92,FALSE
+122,Son of Bigfoot,47046281,289308,0.60,46756973,99.40,2017,"Family, Animation, Comedy",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.50,482,en,USA,Ben Stassen,92,FALSE
 124,The Thousand Faces of Dunjia,46263237,124187,0.30,46139050,99.70,2017,"Adventure, Action, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.16,72,zh,USA,Yuen Woo-ping,113,FALSE
 125,The Battleship Island,46183383,1104957,2.40,45078426,97.60,2017,"Action, History, Drama, War",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.14,259,ko,USA,Ryoo Seung-wan,132,FALSE
 129,Flatliners,45158254,16883115,37.40,28275139,62.60,2017,"Drama, Horror, Thriller",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,5.66,2262,en,USA,Niels Arden Oplev,110,FALSE
@@ -793,7 +793,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 133,Battle of Memories,43892362,594552,1.40,43297810,98.60,2017,"Drama, Mystery, Thriller, Science Fiction",0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,6.60,47,zh,USA,Leste Chen,119,FALSE
 134,The Snowman,43084060,6700035,15.60,36384025,84.40,2017,"Crime, Thriller, Mystery, Horror",0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,5.21,2231,en,USA,Tomas Alfredson,119,FALSE
 135,Gifted,43046590,24801212,57.60,18245378,42.40,2017,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8.02,5520,en,USA,Marc Webb,101,FALSE
-136,Loving Vincent,42187665,6735118,16.00,35452547,84.00,2017,"Animation, Drama, Mystery, History",0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,8.00,2456,en,USA,"Dorota Kobiela, Hugh Welchman",94,FALSE
+136,Loving Vincent,42187665,6735118,16.00,35452547,84.00,2017,"Animation, Drama, Mystery, History",0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,8.00,2456,en,USA,Dorota Kobiela,94,FALSE
 137,Call Me by Your Name,42142738,18095701,42.90,24047037,57.10,2017,"Romance, Drama",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,8.13,12101,en,USA,Luca Guadagnino,132,FALSE
 138,Mary and the Witch's Flower,41978431,2418404,5.80,39560027,94.20,2017,"Adventure, Animation, Family, Fantasy",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.12,793,ja,USA,Hiromasa Yonebayashi,103,FALSE
 139,T2 Trainspotting,41681746,2402004,5.80,39279742,94.20,2017,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.95,3117,en,USA,Danny Boyle,117,FALSE
@@ -825,16 +825,16 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 181,Twenty Two,26289378,46796,0.20,26242582,99.80,2017,"History, Documentary",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,7.60,19,zh,USA,Guo Ke,99,FALSE
 182,The Zookeeper's Wife,26152835,17571660,67.20,8581175,32.80,2017,"Drama, History, War",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.34,1497,en,USA,Niki Caro,127,FALSE
 186,Father Figures,25701244,17501244,68.10,8200000,31.90,2017,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.80,623,en,USA,Lawrence Sher,113,FALSE
-187,Fireworks,25672406,525280,2.00,25147126,98.00,2017,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0.00,0,en,USA,"Akiyuki Shinbo, Nobuyuki Takeuchi",90,FALSE
+187,Fireworks,25672406,525280,2.00,25147126,98.00,2017,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0.00,0,en,USA,Akiyuki Shinbo,90,FALSE
 190,The Death of Stalin,24646055,8047856,32.70,16598199,67.30,2017,"Comedy, Drama, History",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.01,1872,en,USA,Armando Iannucci,107,FALSE
 192,Jolly LLB 2,24214186,1654254,6.80,22559932,93.20,2017,"Comedy, Crime",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6.87,131,hi,USA,Subhash Kapoor,137,FALSE
 193,I Can Speak,24024444,63239,0.30,23961205,99.70,2017,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.90,59,ko,USA,Kim Hyun-seok,119,FALSE
 194,Wish Upon,23468586,14301505,60.90,9167081,39.10,2017,"Horror, Thriller, Fantasy",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,5.68,1367,en,USA,John R. Leonetti,90,FALSE
 195,Detroit,23355100,16790139,71.90,6564961,28.10,2017,"Crime, Drama, Thriller, History",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,7.28,1631,en,USA,Kathryn Bigelow,143,FALSE
-196,Extraordinary Mission,22757764,54174,0.20,22703590,99.80,2017,"Action, Adventure, Crime, Thriller",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.50,43,zh,USA,"Alan Mak, Anthony Pun",120,FALSE
+196,Extraordinary Mission,22757764,54174,0.20,22703590,99.80,2017,"Action, Adventure, Crime, Thriller",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.50,43,zh,USA,Alan Mak,120,FALSE
 197,The Glass Castle,22088533,17273059,78.20,4815474,21.80,2017,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.10,819,en,USA,Destin Daniel Cretton,127,FALSE
 199,The Prison,21205329,207481,1.00,20997848,99.00,2017,"Adventure, Fantasy",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,8.02,21662,en,USA,Na Hyun,125,FALSE
-1,Avengers: Infinity War,2048359754,678815482,33.10,1369544272,66.90,2018,"Adventure, Action, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8.24,29914,en,USA,"Anthony Russo, Joe Russo",149,FALSE
+1,Avengers: Infinity War,2048359754,678815482,33.10,1369544272,66.90,2018,"Adventure, Action, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8.24,29914,en,USA,Anthony Russo,149,FALSE
 2,Black Panther,1346913161,700059566,52.00,646853595,48.00,2018,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.38,22231,en,USA,Ryan Coogler,134,FALSE
 3,Jurassic World: Fallen Kingdom,1308467944,417719760,31.90,890748184,68.10,2018,"Action, Adventure, Science Fiction, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6.54,11805,en,USA,J. A. Bayona,128,FALSE
 4,Incredibles 2,1242805359,608581744,49.00,634223615,51.00,2018,"Action, Adventure, Animation, Family",1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.46,12877,en,USA,Brad Bird,118,FALSE
@@ -848,16 +848,16 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 12,Ready Player One,583490172,137690172,23.60,445800000,76.40,2018,"Adventure, Action, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.59,15661,en,USA,Steven Spielberg,140,FALSE
 13,Operation Red Sea,579330426,1543547,0.30,577786879,99.70,2018,"Action, Thriller, War, Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,7.37,378,zh,USA,Dante Lam,142,FALSE
 14,Detective Chinatown 2,544185156,1983984,0.40,542201172,99.60,2018,"Comedy, Mystery",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6.19,110,zh,USA,Chen Sicheng,121,FALSE
-15,Ralph Breaks the Internet,529323962,201091711,38.00,328232251,62.00,2018,"Family, Animation, Comedy, Adventure",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.20,7573,en,USA,"Rich Moore, Phil Johnston",112,FALSE
+15,Ralph Breaks the Internet,529323962,201091711,38.00,328232251,62.00,2018,"Family, Animation, Comedy, Adventure",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.20,7573,en,USA,Rich Moore,112,FALSE
 16,The Meg,529243742,145443742,27.50,383800000,72.50,2018,"Action, Science Fiction, Horror",1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6.25,7651,en,USA,Jon Turteltaub,113,FALSE
 17,Hotel Transylvania 3: Summer Vacation,528583774,167510016,31.70,361073758,68.30,2018,"Animation, Comedy, Family, Fantasy",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.86,4417,en,USA,Genndy Tartakovsky,97,FALSE
-18,The Grinch,512453517,271478510,53.00,240975007,47.00,2018,"Animation, Family, Comedy, Fantasy",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.86,4046,en,USA,"Scott Mosier, Yarrow Cheney",85,FALSE
+18,The Grinch,512453517,271478510,53.00,240975007,47.00,2018,"Animation, Family, Comedy, Fantasy",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.86,4046,en,USA,Scott Mosier,85,FALSE
 19,Bumblebee,467989645,127195589,27.20,340794056,72.80,2018,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.73,6126,en,USA,Travis Knight,114,FALSE
 21,A Star Is Born,436388866,215288866,49.30,221100000,50.70,2018,"Music, Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,7.50,11656,en,USA,Bradley Cooper,136,FALSE
 22,Rampage,428128233,101028233,23.60,327100000,76.40,2018,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.46,7051,en,USA,Brad Peyton,107,FALSE
 23,Mamma Mia! Here We Go Again,395044706,120634935,30.50,274409771,69.50,2018,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7.10,3344,en,USA,Ol Parker,114,FALSE
 24,Solo: A Star Wars Story,392924807,213767512,54.40,179157295,45.60,2018,"Science Fiction, Adventure, Action",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.60,8546,en,USA,Ron Howard,135,FALSE
-25,Spider-Man: Into the Spider-Verse,375582637,190241310,50.70,185341327,49.30,2018,"Animation, Action, Adventure, Science Fiction",1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8.40,15735,en,USA,"Bob Persichetti, Peter Ramsey, Rodney Rothman",117,FALSE
+25,Spider-Man: Into the Spider-Verse,375582637,190241310,50.70,185341327,49.30,2018,"Animation, Action, Adventure, Science Fiction",1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8.40,15735,en,USA,Bob Persichetti,117,FALSE
 26,Fifty Shades Freed,371985018,100407760,27.00,271577258,73.00,2018,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.70,8004,en,USA,James Foley,105,FALSE
 28,The Nun,366050119,117450119,32.10,248600000,67.90,2018,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5.90,6675,en,USA,Corin Hardy,96,FALSE
 29,Monster Hunt 2,361682618,706153,0.20,360976465,99.80,2018,"Adventure, Comedy, Fantasy",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.70,127,zh,USA,Raman Hui,110,FALSE
@@ -878,7 +878,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 45,Christopher Robin,197744377,99215042,50.20,98529335,49.80,2018,"Adventure, Comedy, Family, Fantasy",0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.31,2716,en,USA,Marc Forster,104,FALSE
 46,The Equalizer 2,190400157,102084362,53.60,88315795,46.40,2018,"Action, Thriller, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.80,5379,en,USA,Antoine Fuqua,121,FALSE
 48,The Mule,174804407,103804407,59.40,71000000,40.60,2018,"Crime, Drama",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6.85,4947,en,USA,Clint Eastwood,116,FALSE
-49,The Nutcracker and the Four Realms,173961069,54858851,31.50,119102218,68.50,2018,"Fantasy, Adventure, Family",0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.08,2142,en,USA,"Lasse Hallström, Joe Johnston",99,FALSE
+49,The Nutcracker and the Four Realms,173961069,54858851,31.50,119102218,68.50,2018,"Fantasy, Adventure, Family",0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.08,2142,en,USA,Lasse Hallström,99,FALSE
 50,Insidious: The Last Key,167885588,67745330,40.40,100140258,59.60,2018,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.30,2896,en,USA,Adam Robitel,103,FALSE
 51,The Predator,160542134,51024708,31.80,109517426,68.20,2018,"Science Fiction, Action, Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5.64,4666,en,USA,Shane Black,107,FALSE
 52,Johnny English Strikes Again,158970776,4412170,2.80,154558606,97.20,2018,"Action, Adventure, Comedy",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.27,2476,en,USA,David Kerr,89,FALSE
@@ -890,7 +890,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 58,The House with a Clock in Its Walls,131457147,68549695,52.10,62907452,47.90,2018,"Fantasy, Family, Comedy",0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.20,2152,en,USA,Eli Roth,105,FALSE
 59,Instant Family,120556201,67363237,55.90,53192964,44.10,2018,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.52,2955,en,USA,Sean Anders,118,FALSE
 60,A Cool Fish,118153135,551876,0.50,117601259,99.50,2018,"Comedy, Thriller, Crime",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.92,79,zh,USA,Rao Xiaozhi,108,FALSE
-61,Game Night,117679066,69179066,58.80,48500000,41.20,2018,"Mystery, Comedy, Crime",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,6.85,5769,en,USA,"John Francis Daley, Jonathan Goldstein",100,FALSE
+61,Game Night,117679066,69179066,58.80,48500000,41.20,2018,"Mystery, Comedy, Crime",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,6.85,5769,en,USA,John Francis Daley,100,FALSE
 62,Dragon Ball Super: Broly,115750445,30712119,26.50,85038326,73.50,2018,"Action, Science Fiction, Animation",1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.89,2918,ja,USA,Tatsuya Nagamine,100,FALSE
 63,The Monkey King 3,115084576,187074,0.20,114897502,99.80,2018,"Adventure, Fantasy, Action, Family",1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,5.52,49,zh,USA,Cheang Pou-soi,114,FALSE
 64,First Man,105697415,44936545,42.50,60760870,57.50,2018,"History, Drama",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.05,5249,en,USA,Damien Chazelle,141,FALSE
@@ -901,7 +901,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 70,Alpha,97254328,35857181,36.90,61397147,63.10,2018,"Adventure, Drama",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.50,2544,en,USA,Albert Hughes,96,FALSE
 72,The Favourite,95918706,34366783,35.80,61551923,64.20,2018,"Drama, Comedy, Thriller, History",0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,7.51,5495,en,USA,Yorgos Lanthimos,119,FALSE
 73,Truth or Dare,95330493,41411015,43.40,53919478,56.60,2018,"Thriller, Horror",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,5.94,4012,en,USA,Jeff Wadlow,100,FALSE
-75,I Feel Pretty,94539426,48795601,51.60,45743825,48.40,2018,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.40,2036,en,USA,"Abby Kohn, Marc Silverstein",110,FALSE
+75,I Feel Pretty,94539426,48795601,51.60,45743825,48.40,2018,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.40,2036,en,USA,Abby Kohn,110,FALSE
 76,Blockers,94017294,60311495,64.10,33705799,35.90,2018,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.31,1981,en,USA,Kay Cannon,102,FALSE
 77,BlacKkKlansman,93400823,49275340,52.80,44125483,47.20,2018,"Crime, Comedy, Drama",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,7.51,7516,en,USA,Spike Lee,135,FALSE
 78,Goosebumps 2: Haunted Halloween,93320380,46700633,50.00,46619747,50.00,2018,"Comedy, Fantasy, Horror",0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,6.11,1521,en,USA,Ari Sandel,90,FALSE
@@ -934,7 +934,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 114,The 15:17 to Paris,57176286,36276286,63.40,20900000,36.60,2018,"Drama, Thriller",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,5.40,1589,en,USA,Clint Eastwood,94,FALSE
 117,Early Man,54622814,8267544,15.10,46355270,84.90,2018,"Family, Comedy, Animation, Adventure",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.14,796,en,USA,Nick Park,89,FALSE
 118,Peppermint,53918723,35418723,65.70,18500000,34.30,2018,"Action, Thriller",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.72,2055,en,USA,Pierre Morel,102,FALSE
-119,Teen Titans GO! To the Movies,52390236,29790236,56.90,22600000,43.10,2018,"Animation, Action, Comedy, Science Fiction",1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.20,1110,en,USA,"Peter Rida Michail, Aaron Horvath",84,FALSE
+119,Teen Titans GO! To the Movies,52390236,29790236,56.90,22600000,43.10,2018,"Animation, Action, Comedy, Science Fiction",1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.20,1110,en,USA,Peter Rida Michail,84,FALSE
 120,Slender Man,51738549,30569484,59.10,21169065,40.90,2018,"Horror, Mystery, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,4.28,1998,en,USA,Sylvain White,93,FALSE
 121,Breaking In,51411620,46840590,91.10,4571030,8.90,2018,"Thriller, Crime, Action",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,5.99,660,en,USA,James McTeigue,88,FALSE
 124,Simmba,51329025,5102129,9.90,46226896,90.10,2018,"Action, Comedy, Crime, Drama",1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6.10,79,hi,USA,Rohit Shetty,158,FALSE
@@ -943,7 +943,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 129,Mary Queen of Scots,46712809,16468499,35.30,30244310,64.70,2018,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6.56,1778,en,USA,Josie Rourke,124,FALSE
 130,Uncle Drew,46664414,42469946,91.00,4194468,9.00,2018,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.70,551,en,USA,Charles Stone III,103,FALSE
 131,Acrimony,46403669,43549096,93.80,2854573,6.20,2018,"Drama, Thriller",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,6.70,379,en,USA,Tyler Perry,120,FALSE
-132,Asterix: The Secret of the Magic Potion,46205573,1271953,2.80,44933620,97.20,2018,"Family, Animation, Comedy, Adventure",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.85,1229,fr,USA,"Alexandre Astier, Louis Clichy",85,FALSE
+132,Asterix: The Secret of the Magic Potion,46205573,1271953,2.80,44933620,97.20,2018,"Family, Animation, Comedy, Adventure",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.85,1229,fr,USA,Alexandre Astier,85,FALSE
 134,Winchester,44019588,25091816,57.00,18927772,43.00,2018,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,5.90,1727,en,USA,The Spierig Brothers,99,FALSE
 135,Annihilation,43070915,32732301,76.00,10338614,24.00,2018,"Science Fiction, Horror",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6.43,8632,en,USA,Alex Garland,115,FALSE
 136,The Possession of Hannah Grace,43016528,14837422,34.50,28179106,65.50,2018,"Horror, Drama",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,5.60,1341,en,USA,Diederik Van Rooijen,86,FALSE
@@ -971,7 +971,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 164,Hunter Killer,31672678,15767460,49.80,15905218,50.20,2018,"Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.90,2168,en,USA,Donovan Marsh,121,FALSE
 165,Super Troopers 2,31626386,30617396,96.80,1008990,3.20,2018,"Comedy, Crime, Mystery",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5.86,463,en,USA,Jay Chandrasekhar,96,FALSE
 166,The Strangers: Prey at Night,31039126,24586708,79.20,6452418,20.80,2018,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,5.68,1371,en,USA,Johannes Roberts,85,FALSE
-171,Free Solo,29390279,17541090,59.70,11849189,40.30,2018,"Documentary, Adventure",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7.91,1333,en,USA,"Elizabeth Chai Vasarhelyi, Jimmy Chin",100,FALSE
+171,Free Solo,29390279,17541090,59.70,11849189,40.30,2018,"Documentary, Adventure",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7.91,1333,en,USA,Elizabeth Chai Vasarhelyi,100,FALSE
 173,Pad Man,29045020,1670192,5.80,27374828,94.20,2018,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.40,205,hi,USA,R. Balki,140,FALSE
 174,Mirai,28756961,812794,2.80,27944167,97.20,2018,"Animation, Family, Fantasy, Adventure, Drama",0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,7.17,779,ja,USA,Mamoru Hosoda,98,FALSE
 175,Default,27694043,203775,0.70,27490268,99.30,2018,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.00,56,ko,USA,Choi Kook-hee,114,FALSE
@@ -987,11 +987,11 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 192,Pokémon the Movie: The Power of Us,23740788,789170,3.30,22951618,96.70,2018,"Animation, Family, Adventure, Fantasy",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.10,197,ja,USA,Tetsuo Yajima,98,FALSE
 196,Padmaavat,22991060,11846060,51.50,11145000,48.50,2018,"Drama, History, Romance",0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,6.93,270,hi,USA,Sanjay Leela Bhansali,163,FALSE
 199,Mojin: The Worm Valley,22381583,101516,0.50,22280067,99.50,2018,"Action, Fantasy, Adventure",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.20,50,zh,USA,Fei Xing,110,FALSE
-1,Avengers: Endgame,2799439100,858373000,30.70,1941066100,69.30,2019,"Adventure, Science Fiction, Action",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8.25,25780,en,USA,"Anthony Russo, Joe Russo",181,FALSE
+1,Avengers: Endgame,2799439100,858373000,30.70,1941066100,69.30,2019,"Adventure, Science Fiction, Action",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8.25,25780,en,USA,Anthony Russo,181,FALSE
 2,The Lion King,1656943394,543638043,32.80,1113305351,67.20,2019,"Adventure, Drama, Family, Animation",0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,7.12,10058,en,USA,Jon Favreau,118,FALSE
-3,Frozen II,1450026933,477373578,32.90,972653355,67.10,2019,"Family, Animation, Adventure, Comedy, Fantasy",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.26,9751,en,USA,"Chris Buck, Jennifer Lee",103,FALSE
+3,Frozen II,1450026933,477373578,32.90,972653355,67.10,2019,"Family, Animation, Adventure, Comedy, Fantasy",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.26,9751,en,USA,Chris Buck,103,FALSE
 4,Spider-Man: Far from Home,1131927996,390532085,34.50,741395911,65.50,2019,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.42,15754,en,USA,Jon Watts,129,FALSE
-5,Captain Marvel,1128274794,426829839,37.80,701444955,62.20,2019,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.81,15741,en,USA,"Anna Boden, Ryan Fleck",124,FALSE
+5,Captain Marvel,1128274794,426829839,37.80,701444955,62.20,2019,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.81,15741,en,USA,Anna Boden,124,FALSE
 6,Joker,1078751311,335451311,31.10,743300000,68.90,2019,"Crime, Thriller, Drama",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,8.14,25889,en,USA,Todd Phillips,122,FALSE
 7,Star Wars: Episode IX - The Rise of Skywalker,1074144248,515202542,48.00,558941706,52.00,2019,"Adventure, Action, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.30,9940,en,USA,J. J. Abrams,141,FALSE
 8,Toy Story 4,1073394593,434038008,40.40,639356585,59.60,2019,"Family, Adventure, Animation, Comedy, Fantasy",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.50,9802,en,USA,Josh Cooley,100,FALSE
@@ -1003,7 +1003,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 14,How to Train Your Dragon: The Hidden World,521799505,160799505,30.80,361000000,69.20,2019,"Animation, Family, Adventure",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.75,6425,en,USA,Dean DeBlois,104,FALSE
 15,Maleficent: Mistress of Evil,491730089,113929605,23.20,377800484,76.80,2019,"Family, Fantasy, Adventure, Action",1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.30,6107,en,USA,Joachim Rønning,118,FALSE
 16,It Chapter Two,473093228,211593228,44.70,261500000,55.30,2019,"Horror, Drama, Thriller",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,6.84,8761,en,USA,Andy Muschietti,169,FALSE
-17,"My People, My Country",450064993,2356683,0.50,447708310,99.50,2019,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6.80,62,zh,USA,"Chen Kaige, Zhang Yibai, Guan Hu, Xue Xiaolu, Xu Zheng, Ning Hao, Wen Muye",155,FALSE
+17,"My People, My Country",450064993,2356683,0.50,447708310,99.50,2019,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6.80,62,zh,USA,Chen Kaige,155,FALSE
 18,Pokémon: Detective Pikachu,433305346,144105346,33.30,289200000,66.70,2019,"Action, Adventure, Fantasy",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.93,6849,en,USA,Rob Letterman,104,FALSE
 19,The Secret Life of Pets 2,431164459,158980250,36.90,272184209,63.10,2019,"Adventure, Animation, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.00,3038,en,USA,Chris Renaud,86,FALSE
 20,The Captain,417863545,706572,0.20,417156973,99.80,2019,"Action, Animation, Comedy, Family",1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.23,1211,en,USA,Andrew Lau,111,FALSE
@@ -1026,7 +1026,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 39,Better Days,227313644,1921657,0.80,225391987,99.20,2019,"Drama, Romance, Thriller, Crime",0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,8.10,452,zh,USA,Derek Tsang,135,FALSE
 40,Ford v Ferrari,225508210,117624357,52.20,107883853,47.80,2019,"Drama, Action, History",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,8.01,8009,en,USA,James Mangold,152,FALSE
 41,Little Women,220102318,108101214,49.10,112001104,50.90,2019,"Drama, Romance, History",0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,7.88,6276,en,USA,Greta Gerwig,135,FALSE
-42,The Addams Family,203044905,100044905,49.30,103000000,50.70,2019,"Family, Animation, Comedy, Fantasy",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.61,2337,en,USA,"Conrad Vernon, Greg Tiernan",87,FALSE
+42,The Addams Family,203044905,100044905,49.30,103000000,50.70,2019,"Family, Animation, Comedy, Fantasy",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.61,2337,en,USA,Conrad Vernon,87,FALSE
 43,Rocketman,195320400,96368160,49.30,98952240,50.70,2019,"Music, Drama",0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,7.33,4648,en,USA,Dexter Fletcher,121,FALSE
 44,Downton Abbey,194694725,96853865,49.70,97840860,50.30,2019,"Drama, Romance, History",0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,7.10,1124,en,USA,Michael Engler,122,FALSE
 45,Weathering with You,192495409,8056636,4.20,184438773,95.80,2019,"Animation, Drama, Fantasy, Romance",0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,8.00,2303,ja,USA,Makoto Shinkai,112,FALSE
@@ -1035,7 +1035,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 49,Abominable,188623517,60716390,32.20,127907127,67.80,2019,"Family, Animation, Adventure, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.50,2046,en,USA,Jill Culton,97,FALSE
 50,Ip Man 4: The Finale,176345966,3956031,2.20,172389935,97.80,2019,"Action, History, Drama",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.30,1953,cn,USA,Wilson Yip,107,FALSE
 51,Gemini Man,173469516,48546770,28.00,124922746,72.00,2019,"Science Fiction, Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6.30,5117,en,USA,Ang Lee,117,FALSE
-52,Spies in Disguise,171616764,66757013,38.90,104859751,61.10,2019,"Animation, Action, Adventure, Comedy, Family",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.60,2798,en,USA,"Troy Quane, Nick Bruno",102,FALSE
+52,Spies in Disguise,171616764,66757013,38.90,104859751,61.10,2019,"Animation, Action, Adventure, Comedy, Family",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.60,2798,en,USA,Troy Quane,102,FALSE
 53,Hustlers,157563598,104963598,66.60,52600000,33.40,2019,"Drama, Comedy, Crime",0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6.50,2919,en,USA,Lorene Scafaria,110,FALSE
 54,The Climbers,156892866,487157,0.30,156405709,99.70,2019,"Adventure, Action, Drama, History",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6.50,49,zh,USA,Daniel Lee,125,FALSE
 55,Escape Room,155712077,57005601,36.60,98706476,63.40,2019,"Horror, Thriller, Mystery",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.50,4668,en,USA,Adam Robitel,99,FALSE
@@ -1053,7 +1053,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 68,Wonder Park,119559110,45216793,37.80,74342317,62.20,2019,"Comedy, Animation, Adventure, Family, Fantasy",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.50,694,en,USA,Dylan Brown,85,FALSE
 69,P Storm,117991727,326711,0.30,117665016,99.70,2019,"Action, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6.40,61,cn,USA,David Lam,96,FALSE
 71,The Gentlemen,115171795,36471795,31.70,78700000,68.30,2019,"Action, Crime, Comedy",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,7.70,5857,en,USA,Guy Ritchie,113,FALSE
-72,Pet Sematary,113118226,54724696,48.40,58393530,51.60,2019,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,5.74,3206,en,USA,"Kevin Kölsch, Dennis Widmyer",101,FALSE
+72,Pet Sematary,113118226,54724696,48.40,58393530,51.60,2019,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,5.74,3206,en,USA,Kevin Kölsch,101,FALSE
 74,Good Boys,111173598,83140306,74.80,28033292,25.20,2019,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.80,1835,en,USA,Gene Stupnitsky,89,FALSE
 75,Scary Stories to Tell in the Dark,104545505,68947075,65.90,35598430,34.10,2019,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.50,2642,en,USA,André Øvredal,108,FALSE
 76,Line Walker 2: Invisible Spy,99482027,296751,0.30,99185276,99.70,2019,"Action, Crime, Thriller, Drama",1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,6.90,52,cn,USA,Jazz Boon,98,FALSE
@@ -1078,9 +1078,9 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 98,War,67179155,4654000,6.90,62525155,93.10,2019,"Action, Thriller, Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.77,327,hi,USA,Siddharth Anand,154,FALSE
 100,Happy Death Day 2U,64600152,28148130,43.60,36452022,56.40,2019,"Comedy, Horror, Science Fiction",0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6.31,3377,en,USA,Christopher Landon,100,FALSE
 102,Bombshell,61404394,31762808,51.70,29641586,48.30,2019,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.80,2974,en,USA,Jay Roach,109,FALSE
-103,Ashfall,61354854,372562,0.60,60982292,99.40,2019,"Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.80,573,ko,USA,"Lee Hae-jun, Kim Byung-seo",128,FALSE
+103,Ashfall,61354854,372562,0.60,60982292,99.40,2019,"Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.80,573,ko,USA,Lee Hae-jun,128,FALSE
 104,Ma,61220784,45896028,75.00,15324756,25.00,2019,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,5.80,2180,en,USA,Tate Taylor,99,FALSE
-106,Ready or Not,57615777,28714231,49.80,28901546,50.20,2019,"Horror, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7.04,4580,en,USA,"Matt Bettinelli-Olpin, Tyler Gillett",95,FALSE
+106,Ready or Not,57615777,28714231,49.80,28901546,50.20,2019,"Horror, Comedy",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7.04,4580,en,USA,Matt Bettinelli-Olpin,95,FALSE
 110,Hellboy,55064690,21903748,39.80,33160942,60.20,2019,"Fantasy, Horror, Action, Adventure",1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,5.58,3438,en,USA,Neil Marshall,120,FALSE
 111,Les Misérables,54606372,330181,0.60,54276191,99.40,2019,"Crime, Drama, History, Romance",0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,7.20,622,en,USA,Ladj Ly,104,FALSE
 112,Long Shot,53873809,30316271,56.30,23557538,43.70,2019,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.73,2666,en,USA,Jonathan Levine,125,FALSE
@@ -1093,7 +1093,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 125,Midsommar,47871968,27426361,57.30,20445607,42.70,2019,"Horror, Drama, Mystery",0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,7.20,7142,en,USA,Ari Aster,147,FALSE
 126,Queen & Slim,47834125,43808310,91.60,4025815,8.40,2019,"Crime, Drama, Romance",0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,7.14,690,en,USA,Melina Matsoukas,132,FALSE
 127,47 Meters Down: Uncaged,47582563,22260900,46.80,25321663,53.20,2019,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5.70,1406,en,USA,Johannes Roberts,90,FALSE
-128,Chasing the Dragon II: Wild Wild Bunch,45733356,196634,0.40,45536722,99.60,2019,"Crime, Action, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,5.90,26,cn,USA,"Wong Jing, Jason Kwan",101,FALSE
+128,Chasing the Dragon II: Wild Wild Bunch,45733356,196634,0.40,45536722,99.60,2019,"Crime, Action, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,5.90,26,cn,USA,Wong Jing,101,FALSE
 129,Judy,45701880,24313888,53.20,21387992,46.80,2019,"Drama, History, Music",0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,6.70,1170,en,USA,Rupert Goold,118,FALSE
 130,Child's Play,44907074,29208403,65.00,15698671,35.00,2019,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.00,1895,en,USA,Lars Klevberg,90,FALSE
 131,Richard Jewell,44645542,22345542,50.10,22300000,49.90,2019,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.43,2496,en,USA,Clint Eastwood,131,FALSE
@@ -1122,17 +1122,17 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 174,Booksmart,24959607,22680962,90.90,2278645,9.10,2019,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.00,2620,en,USA,Olivia Wilde,102,FALSE
 175,Super 30,24701637,2269878,9.20,22431759,90.80,2019,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.28,101,hi,USA,Vikas Bahl,155,FALSE
 178,Pinocchio,23841090,1831718,7.70,22009372,92.30,2019,"Drama, Family, Fantasy",0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,6.60,1498,it,USA,Matteo Garrone,125,FALSE
-180,The Peanut Butter Falcon,23712097,20457158,86.30,3254939,13.70,2019,"Adventure, Comedy, Drama",0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.40,1399,en,USA,"Tyler Nilson, Michael Schwartz",97,FALSE
+180,The Peanut Butter Falcon,23712097,20457158,86.30,3254939,13.70,2019,"Adventure, Comedy, Drama",0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.40,1399,en,USA,Tyler Nilson,97,FALSE
 184,Dark Waters,23108017,11136084,48.20,11971933,51.80,2019,"Drama, Thriller",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,7.50,2189,en,USA,Todd Haynes,126,FALSE
 185,The Farewell,23076657,17695781,76.70,5380876,23.30,2019,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.43,1399,en,USA,Lulu Wang,100,FALSE
 187,Black and Blue,22741061,22055313,97.00,685748,3.00,2019,"Action, Crime, Drama, Thriller",1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,6.80,860,en,USA,Deon Taylor,108,FALSE
 188,Late Night,22386555,15499454,69.20,6887101,30.80,2019,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.40,792,en,USA,Nisha Ganatra,102,FALSE
-189,Unplanned,21585326,19005109,88.00,2580217,12.00,2019,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.00,205,en,USA,"Chuck Konzelman, Cary Solomon",110,FALSE
+189,Unplanned,21585326,19005109,88.00,2580217,12.00,2019,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.00,205,en,USA,Chuck Konzelman,110,FALSE
 192,Hotel Mumbai,21314816,9651611,45.30,11663205,54.70,2019,"Thriller, History, Drama, Action",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,7.55,1565,en,USA,Anthony Maras,123,FALSE
 197,Always Miss You,19015465,91884,0.50,18923581,99.50,2019,"Romance, Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,3.00,2,zh,USA,Zhang Weilun,95,FALSE
 200,Greta,18653107,10532219,56.50,8120888,43.50,2019,"Mystery, Thriller, Horror",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.57,1329,en,USA,Neil Jordan,98,FALSE
 1,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,473230408,49505008,10.50,423725400,89.50,2020,"Animation, Action, Fantasy, Thriller",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,8.21,3969,ja,USA,Haruo Sotozaki,117,FALSE
-3,Bad Boys for Life,426505244,206305244,48.40,220200000,51.60,2020,"Thriller, Action, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.14,8281,en,USA,"Adil El Arbi, Bilall Fallah",124,FALSE
+3,Bad Boys for Life,426505244,206305244,48.40,220200000,51.60,2020,"Thriller, Action, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.14,8281,en,USA,Adil El Arbi,124,FALSE
 5,Tenet,365304105,58504105,16.00,306800000,84.00,2020,"Action, Thriller, Science Fiction",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,7.18,9921,en,USA,Christopher Nolan,150,FALSE
 6,Sonic the Hedgehog,319715683,148974665,46.60,170741018,53.40,2020,"Action, Science Fiction, Comedy, Family",1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,7.31,9590,en,USA,Jeff Fowler,99,FALSE
 7,Dolittle,251410631,77047065,30.60,174363566,69.40,2020,"Family, Comedy, Fantasy, Adventure",0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.60,3631,en,USA,Stephen Gaghan,101,FALSE
@@ -1170,14 +1170,14 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 72,Promising Young Woman,18854166,6460965,34.30,12393201,65.70,2020,"Thriller, Crime, Drama",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,7.43,3238,en,USA,Emerald Fennell,113,FALSE
 74,Freaky,18073433,9030855,50.00,9042578,50.00,2020,"Comedy, Horror",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6.60,1629,en,USA,Christopher Landon,102,FALSE
 80,Baaghi 3,16726510,721439,4.30,16005071,95.70,2020,"Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.47,117,hi,USA,Ahmed Khan,143,FALSE
-81,I Still Believe,16069730,9868521,61.40,6201209,38.60,2020,"Music, Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,7.60,1171,en,USA,"Andrew Erwin, Jon Erwin",116,FALSE
+81,I Still Believe,16069730,9868521,61.40,6201209,38.60,2020,"Music, Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,7.60,1171,en,USA,Andrew Erwin,116,FALSE
 82,The Way Back,15490514,13590514,87.70,1900000,12.30,2020,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.66,1171,en,USA,Gavin O'Connor,108,FALSE
 84,The Personal History of David Copperfield,14399270,1876298,13.00,12522972,87.00,2020,Comedy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.45,468,en,USA,Armando Iannucci,119,FALSE
 90,Come Play,13182254,10475990,79.50,2706264,20.50,2020,"Horror, Mystery, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.40,674,en,USA,Jacob Chase,96,FALSE
 103,Let Him Go,10835686,9358025,86.40,1477661,13.60,2020,"Thriller, Crime, Western",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,6.80,665,en,USA,Thomas Bezucha,113,FALSE
 108,The Hunt,10550350,5812500,55.10,4737850,44.90,2020,"Action, Thriller, Horror",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.60,3209,en,USA,Craig Zobel,90,FALSE
 111,100% Wolf,9817950,658764,6.70,9159186,93.30,2020,"Animation, Family, Fantasy, Adventure",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.10,304,en,USA,Alexs Stadermann,96,FALSE
-123,Downhill,8899195,8287061,93.10,612134,6.90,2020,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.30,274,en,USA,"Nat Faxon, Jim Rash",86,FALSE
+123,Downhill,8899195,8287061,93.10,612134,6.90,2020,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.30,274,en,USA,Nat Faxon,86,FALSE
 129,"My Donkey, My Lover & I",7974769,152184,1.90,7821615,98.10,2020,"Comedy, Adventure, Romance",0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.42,341,fr,USA,Caroline Vignal,97,FALSE
 145,Fatale,7031289,6306897,89.70,724392,10.30,2020,"Drama, Thriller",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,5.99,337,en,USA,Deon Taylor,102,FALSE
 152,Chhapaak,6532100,604334,9.30,5927766,90.70,2020,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.40,29,hi,USA,Meghna Gulzar,120,FALSE
@@ -1202,7 +1202,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 13,Black Widow,379751655,183651655,48.40,196100000,51.60,2021,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.20,10235,en,USA,Cate Shortland,134,FALSE
 14,Free Guy,331526598,121626598,36.70,209900000,63.30,2021,"Comedy, Adventure, Science Fiction",0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.50,8811,en,USA,Shawn Levy,115,FALSE
 15,A Quiet Place Part II,297372261,160072261,53.80,137300000,46.20,2021,"Science Fiction, Thriller, Horror",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,7.48,6573,en,USA,John Krasinski,97,FALSE
-16,Encanto,256786742,96093622,37.40,160693120,62.60,2021,"Animation, Comedy, Family, Fantasy",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.60,9518,en,USA,"Jared Bush, Byron Howard",102,FALSE
+16,Encanto,256786742,96093622,37.40,160693120,62.60,2021,"Animation, Comedy, Family, Fantasy",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.60,9518,en,USA,Jared Bush,102,FALSE
 17,Cruella,233503234,86103234,36.90,147400000,63.10,2021,"Comedy, Crime, Family, Adventure",0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,8.00,9346,en,USA,Craig Gillespie,134,FALSE
 19,Jungle Cruise,220889446,116987516,53.00,103901930,47.00,2021,"Fantasy, Adventure",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7.36,5691,en,USA,Jaume Collet-Serra,127,FALSE
 20,The Conjuring: The Devil Made Me Do It,206431050,65631050,31.80,140800000,68.20,2021,"Horror, Mystery, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,7.40,5926,en,USA,Michael Chaves,112,FALSE
@@ -1219,9 +1219,9 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 33,PAW Patrol: The Movie,144327371,40127371,27.80,104200000,72.20,2021,"Animation, Family, Adventure, Comedy",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.40,1213,en,USA,Cal Brunker,86,FALSE
 34,Tom & Jerry,136536687,46536687,34.10,90000000,65.90,2021,"Comedy, Family, Animation",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.80,2444,en,USA,Tim Story,101,FALSE
 36,Halloween Kills,131647155,92002155,69.90,39645000,30.10,2021,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.40,2675,en,USA,David Gordon Green,105,FALSE
-37,Raya and the Last Dragon,130423032,54723032,42.00,75700000,58.00,2021,"Animation, Family, Fantasy, Action, Adventure",1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.80,6799,en,USA,"Don Hall, Carlos López Estrada",107,FALSE
+37,Raya and the Last Dragon,130423032,54723032,42.00,75700000,58.00,2021,"Animation, Family, Fantasy, Action, Adventure",1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.80,6799,en,USA,Don Hall,107,FALSE
 39,The King's Man,125897478,37176373,29.50,88721105,70.50,2021,"Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.75,4545,en,USA,Matthew Vaughn,131,FALSE
-40,The Addams Family 2,119815153,56489153,47.10,63326000,52.90,2021,"Animation, Family, Comedy, Fantasy, Adventure",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.97,1298,en,USA,"Greg Tiernan, Conrad Vernon",93,FALSE
+40,The Addams Family 2,119815153,56489153,47.10,63326000,52.90,2021,"Animation, Family, Comedy, Fantasy, Adventure",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.97,1298,en,USA,Greg Tiernan,93,FALSE
 42,Clifford the Big Red Dog,107347356,48947356,45.60,58400000,54.40,2021,"Family, Adventure, Comedy, Fantasy, Animation",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.19,1729,en,USA,Walt Becker,96,FALSE
 43,Wrath of Man,103966489,27466489,26.40,76500000,73.60,2021,"Crime, Action, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.63,5335,en,USA,Guy Ritchie,119,FALSE
 47,Old,90146510,48276510,53.60,41870000,46.40,2021,"Thriller, Mystery, Horror",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.34,4446,en,USA,M. Night Shyamalan,108,FALSE
@@ -1232,7 +1232,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 54,Hitman's Wife's Bodyguard,70060492,38014727,54.30,32045765,45.70,2021,"Action, Comedy, Crime, Thriller",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.70,2281,en,USA,Patrick Hughes,100,FALSE
 55,Escape Room: Tournament of Champions,65774490,25314753,38.50,40459737,61.50,2021,"Horror, Thriller, Mystery",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.50,2027,en,USA,Adam Robitel,88,FALSE
 56,Belle,64679830,4018313,6.20,60661517,93.80,2021,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.20,675,en,USA,Mamoru Hosoda,121,FALSE
-57,Ron's Gone Wrong,60692022,23009270,37.90,37682752,62.10,2021,"Animation, Science Fiction, Family, Comedy",0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,7.90,1857,en,USA,"Sarah Smith, Jean-Philippe Vine",106,FALSE
+57,Ron's Gone Wrong,60692022,23009270,37.90,37682752,62.10,2021,"Animation, Science Fiction, Family, Comedy",0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,7.90,1857,en,USA,Sarah Smith,106,FALSE
 60,Nobody,57510518,27568035,47.90,29942483,52.10,2021,"Action, Thriller",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7.94,7114,en,USA,Ilya Naishuller,92,FALSE
 63,Don't Breathe 2,53785551,32712950,60.80,21072601,39.20,2021,"Thriller, Horror",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,7.06,2558,en,USA,Rodo Sayagues,98,FALSE
 67,Luca,51074773,1324302,2.60,49750471,97.40,2021,"Animation, Comedy, Fantasy, Adventure, Family",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.82,8365,en,USA,Enrico Casarosa,95,FALSE
@@ -1269,7 +1269,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 119,Those Who Wish Me Dead,19107200,7407200,38.80,11700000,61.20,2021,"Thriller, Action",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.70,1638,en,USA,Taylor Sheridan,100,FALSE
 121,The Green Knight,18887953,17173321,90.90,1714632,9.10,2021,"Adventure, Drama, Fantasy",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6.60,1902,en,USA,David Lowery,130,FALSE
 122,Antlers,18867659,10619670,56.30,8247989,43.70,2021,"Drama, Horror, Mystery",0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,6.23,1095,en,USA,Scott Cooper,99,FALSE
-126,"Dad, I'm Sorry",17480489,350000,2.00,17130489,98.00,2021,"Comedy, Family, Drama",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,7.00,7,vi,USA,"Trấn Thành, Vũ Ngọc Đáng",128,FALSE
+126,"Dad, I'm Sorry",17480489,350000,2.00,17130489,98.00,2021,"Comedy, Family, Drama",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,7.00,7,vi,USA,Trấn Thành,128,FALSE
 130,Cry Macho,16510734,10310734,62.40,6200000,37.60,2021,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.90,1014,en,USA,Clint Eastwood,104,FALSE
 131,Reminiscence,16400193,3900193,23.80,12500000,76.20,2021,"Mystery, Science Fiction",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,6.60,1762,en,USA,Lisa Joy,116,FALSE
 135,The Dry,15576286,364237,2.30,15212049,97.70,2021,"Crime, Thriller, Mystery",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,6.83,678,en,USA,Robert Connolly,117,FALSE
@@ -1294,7 +1294,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 5,Minions: The Rise of Gru,940203765,370270765,39.40,569933000,60.60,2022,"Animation, Comedy, Family, Adventure",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,7.30,3626,en,USA,Ryan Coogler,161,FALSE
 6,Black Panther: Wakanda Forever,859208836,453829060,52.80,405379776,47.20,2022,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.09,6562,en,USA,Matt Reeves,176,FALSE
 7,The Batman,772245583,369345583,47.80,402900000,52.20,2022,"Crime, Mystery, Thriller",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,7.66,10441,en,USA,Taika Waititi,119,FALSE
-8,Thor: Love and Thunder,760928081,343256830,45.10,417671251,54.90,2022,"Fantasy, Action, Comedy",1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.44,7630,en,USA,"Chen Kaige, Tsui Hark, Dante Lam",149,FALSE
+8,Thor: Love and Thunder,760928081,343256830,45.10,417671251,54.90,2022,"Fantasy, Action, Comedy",1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.44,7630,en,USA,Chen Kaige,149,FALSE
 10,Puss in Boots: The Last Wish,481757663,186090535,38.60,295667128,61.40,2022,"Animation, Adventure, Fantasy, Comedy, Family",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,8.22,7868,en,USA,Zhang Chiyu,142,FALSE
 12,Fantastic Beasts: The Secrets of Dumbledore,407150844,95850844,23.50,311300000,76.50,2022,"Fantasy, Adventure",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.65,4517,en,USA,Ruben Fleischer,116,FALSE
 13,Uncharted,407141258,148648820,36.50,258492438,63.50,2022,"Action, Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.90,5988,en,USA,Jeff Fowler,122,FALSE
@@ -1305,7 +1305,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 18,Bullet Train,239268602,103368602,43.20,135900000,56.80,2022,"Action, Comedy, Thriller",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7.45,6282,en,USA,Angus MacLane,105,FALSE
 19,Lightyear,226425420,118307188,52.20,108118232,47.80,2022,"Animation, Science Fiction, Family, Adventure",0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,6.96,3449,en,USA,Parker Finn,115,FALSE
 20,Smile,217408513,105935048,48.70,111473465,51.30,2022,"Horror, Mystery",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,6.66,3343,en,USA,Xing Wenxiong,109,FALSE
-23,DC League of Super-Pets,207557117,93657117,45.10,113900000,54.90,2022,"Animation, Action, Family, Comedy, Science Fiction",1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,7.20,1557,en,USA,"Adam Nee, Aaron Nee",112,FALSE
+23,DC League of Super-Pets,207557117,93657117,45.10,113900000,54.90,2022,"Animation, Action, Family, Comedy, Science Fiction",1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,7.20,1557,en,USA,Adam Nee,112,FALSE
 24,The Lost City,192907684,105344029,54.60,87563655,45.40,2022,"Action, Adventure, Comedy",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.50,3597,en,USA,Gerard Johnstone,102,FALSE
 25,M3GAN,180089109,95159005,52.80,84930104,47.20,2022,"Science Fiction, Horror",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,7.06,4063,en,USA,Goro Taniguchi,115,FALSE
 26,One Piece Film: Red,171315305,12775324,7.50,158539981,92.50,2022,"Animation, Adventure, Action, Fantasy, Music",1,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,7.19,1019,ja,USA,Jordan Peele,130,FALSE
@@ -1315,12 +1315,12 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 30,RRR,165946943,14500000,8.70,151446943,91.30,2022,"Drama, Action",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.75,1320,te,USA,Scott Derrickson,103,FALSE
 31,The Black Phone,161440742,90123230,55.80,71317512,44.20,2022,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,7.59,4951,en,USA,Takehiko Inoue,124,FALSE
 32,The First Slam Dunk,158302288,1291869,0.80,157010419,99.20,2022,"Animation, Comedy, Drama",0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.83,406,ja,USA,Olivia Newman,125,FALSE
-33,Where the Crawdads Sing,144353965,90230760,62.50,54123205,37.50,2022,"Drama, Mystery, Romance",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,7.60,1805,en,USA,"Daniel Kwan, Daniel Scheinert",139,FALSE
-34,Everything Everywhere All at Once,139407019,77191785,55.40,62215234,44.60,2022,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.77,6638,en,USA,"Matt Bettinelli-Olpin, Tyler Gillett",114,TRUE
+33,Where the Crawdads Sing,144353965,90230760,62.50,54123205,37.50,2022,"Drama, Mystery, Romance",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,7.60,1805,en,USA,Daniel Kwan,139,FALSE
+34,Everything Everywhere All at Once,139407019,77191785,55.40,62215234,44.60,2022,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.77,6638,en,USA,Matt Bettinelli-Olpin,114,TRUE
 35,Scream,137743924,81641405,59.30,56102519,40.70,2022,"Horror, Mystery, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.67,3323,en,USA,Kenneth Branagh,127,FALSE
 36,Death on the Nile,137307235,45630104,33.20,91677131,66.80,2022,"Mystery, Crime, Thriller",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,6.43,3680,en,USA,Makoto Shinkai,122,FALSE
 37,Suzume,133473559,10932037,8.20,122541522,91.80,2022,"Animation, Drama, Adventure, Fantasy",0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,7.94,1342,ja,USA,Marc Forster,126,FALSE
-38,A Man Called Otto,113360085,64267657,56.70,49092428,43.30,2022,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.76,2816,en,USA,"Will Speck, Josh Gordon",106,FALSE
+38,A Man Called Otto,113360085,64267657,56.70,49092428,43.30,2022,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.76,2816,en,USA,Will Speck,106,FALSE
 39,"Lyle, Lyle, Crocodile",111080122,46888441,42.20,64191681,57.80,2022,"Comedy, Family, Music",0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,7.00,574,en,USA,David Gordon Green,111,FALSE
 40,Halloween Ends,104374176,64079860,61.40,40294316,38.60,2022,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.10,1780,en,USA,Lee Sang-yong,106,FALSE
 41,The Roundup,101166707,812859,0.80,100353848,99.20,2022,"Action, Crime, Comedy, Thriller",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.22,312,ko,USA,Gina Prince-Bythewood,135,FALSE
@@ -1328,7 +1328,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 43,Downton Abbey: A New Era,92651384,44141550,47.60,48509834,52.40,2022,"Drama, Romance, History, Mystery",0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,7.20,483,en,USA,Prashanth Neel,168,FALSE
 44,K.G.F: Chapter 2,89123940,2874000,3.20,86249940,96.80,2022,"Action, Adventure, Crime, Thriller",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.40,153,kn,USA,Olivia Wilde,123,FALSE
 45,Don't Worry Darling,87609403,45309403,51.70,42300000,48.30,2022,"Mystery, Thriller",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,6.80,2496,en,USA,Tetsuro Kodama,100,FALSE
-46,Dragon Ball Super: Super Hero,86562140,38112140,44.00,48450000,56.00,2022,"Animation, Science Fiction, Action",1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.90,2839,ja,USA,"Channing Tatum, Reid Carolin",101,FALSE
+46,Dragon Ball Super: Super Hero,86562140,38112140,44.00,48450000,56.00,2022,"Animation, Science Fiction, Action",1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.90,2839,ja,USA,Channing Tatum,101,FALSE
 47,Dog,84550282,61778069,73.10,22772213,26.90,2022,"Drama, Comedy",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.30,1551,en,USA,Jeff Tremaine,96,FALSE
 48,Jackass Forever,80563999,57743451,71.70,22820548,28.30,2022,"Comedy, Documentary",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6.82,779,en,USA,Mark Mylod,107,FALSE
 49,The Menu,79628200,38501125,48.40,41127075,51.60,2022,"Comedy, Horror, Thriller",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,7.20,4967,en,USA,Tommy Wirkola,112,FALSE
@@ -1347,7 +1347,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 66,Brahmastra Part One: Shiva,50164785,7839108,15.60,42325677,84.40,2022,"Fantasy, Action, Adventure",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.40,170,hi,USA,Steven Spielberg,151,FALSE
 67,The Fabelmans,45620703,17348945,38.00,28271758,62.00,2022,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.62,2334,en,USA,Zach Cregger,102,FALSE
 68,Barbarian,45352337,40842944,90.10,4509393,9.90,2022,"Horror, Mystery",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,6.80,2520,en,USA,Daniel Stamm,93,FALSE
-69,Prey for the Devil,44658929,19802293,44.30,24856636,55.70,2022,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.90,918,en,USA,"Rob Minkoff, Mark Koetsier, Chris Bailey",98,FALSE
+69,Prey for the Devil,44658929,19802293,44.30,24856636,55.70,2022,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.90,918,en,USA,Rob Minkoff,98,FALSE
 70,Paws of Fury: The Legend of Hank,42439184,17811382,42.00,24627802,58.00,2022,"Animation, Adventure, Comedy, Family",0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,6.67,297,en,USA,Jessica M. Thompson,105,FALSE
 71,The Invitation,38036130,25100080,66.00,12936050,34.00,2022,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.10,825,en,USA,Matthew Warchus,117,FALSE
 73,Orphan: First Kill,37083743,5413227,14.60,31670516,85.40,2022,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.60,2119,en,USA,Shinsuke Sato,134,FALSE
@@ -1399,7 +1399,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 152,Till,11498884,9000202,78.30,2498682,21.70,2022,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.50,276,en,USA,Chinonye Chukwu,130,FALSE
 153,Jug Jugg Jeeyo,11467726,1033000,9.00,10434726,91.00,2022,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.01,35,hi,USA,Raj Mehta,150,FALSE
 154,Empire of Light,11395604,1177577,10.30,10218027,89.70,2022,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.67,545,en,USA,Sam Mendes,115,FALSE
-155,The Eight Mountains,11374298,302456,2.70,11071842,97.30,2022,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.64,705,it,USA,"Felix van Groeningen, Charlotte Vandermeersch",147,FALSE
+155,The Eight Mountains,11374298,302456,2.70,11071842,97.30,2022,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.64,705,it,USA,Felix van Groeningen,147,FALSE
 158,Men,11151120,7587853,68.00,3563267,32.00,2022,"Horror, Thriller, Fantasy",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,6.10,1099,en,USA,Alex Garland,100,FALSE
 165,The Beasts,10067896,46105,0.50,10021791,99.50,2022,"Fantasy, Adventure",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6.65,4517,en,USA,Rodrigo Sorogoyen,137,FALSE
 167,F3: Fun and Frustration,9849193,1195000,12.10,8654193,87.90,2022,"Comedy, Romance, Family",0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.70,14,te,USA,Anil Ravipudi,148,FALSE
@@ -1411,17 +1411,17 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 184,Acharya,8048175,832000,10.30,7216175,89.70,2022,"Action, Drama",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4.32,17,te,USA,Koratala Siva,154,FALSE
 198,Decibel,7212471,60579,0.80,7151892,99.20,2022,"Action, Drama, Thriller",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,6.70,55,ko,USA,Hwang In-ho,110,FALSE
 1,Barbie,1446938421,636238421,44.00,810700000,56.00,2023,"Comedy, Adventure",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.00,9310,en,USA,Greta Gerwig,114,FALSE
-2,The Super Mario Bros. Movie,1360847665,574934330,42.20,785913335,57.80,2023,"Animation, Family, Adventure, Fantasy, Comedy",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.60,9266,en,USA,"Aaron Horvath, Michael Jelenic",92,FALSE
+2,The Super Mario Bros. Movie,1360847665,574934330,42.20,785913335,57.80,2023,"Animation, Family, Adventure, Fantasy, Comedy",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.60,9266,en,USA,Aaron Horvath,92,FALSE
 3,Oppenheimer,975594978,329862540,33.80,645732438,66.20,2023,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,8.08,9513,en,USA,Christopher Nolan,180,TRUE
 4,Guardians of the Galaxy Vol. 3,845555777,358995815,42.50,486559962,57.50,2023,"Science Fiction, Adventure, Action",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8.00,6962,en,USA,James Gunn,150,FALSE
 5,Fast X,704875015,146126015,20.70,558749000,79.30,2023,"Action, Crime, Thriller",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.07,5648,en,USA,Louis Leterrier,141,FALSE
-6,Spider-Man: Across the Spider-Verse,690542303,381311319,55.20,309230984,44.80,2023,"Animation, Action, Adventure, Science Fiction",1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8.36,7121,en,USA,"Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",140,FALSE
+6,Spider-Man: Across the Spider-Verse,690542303,381311319,55.20,309230984,44.80,2023,"Animation, Action, Adventure, Science Fiction",1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,8.36,7121,en,USA,Joaquim Dos Santos,140,FALSE
 8,Wonka,634402312,218402312,34.40,416000000,65.60,2023,"Comedy, Family, Fantasy",0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.10,3617,en,USA,Paul King,116,FALSE
 9,The Wandering Earth II,615023132,5023132,0.80,610000000,99.20,2023,Science Fiction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.30,577,zh,USA,Frant Gwo,173,FALSE
 10,Mission: Impossible - Dead Reckoning Part One,570619838,172135383,30.20,398484455,69.80,2023,"Action, Adventure",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.50,3880,en,USA,Christopher McQuarrie,163,FALSE
 11,The Little Mermaid,569626289,298172056,52.30,271454233,47.70,2023,"Adventure, Family, Fantasy, Romance",0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,6.30,2946,en,USA,Rob Marshall,135,FALSE
 13,Elemental,496444308,154426697,31.10,342017611,68.90,2023,"Animation, Comedy, Family, Fantasy, Romance",0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,7.63,4564,en,USA,Peter Sohn,101,FALSE
-14,Lost in the Stars,487637474,1721446,0.40,485916028,99.60,2023,"Mystery, Crime, Thriller",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,6.51,78,zh,USA,"Cui Rui, Liu Xiang",121,FALSE
+14,Lost in the Stars,487637474,1721446,0.40,485916028,99.60,2023,"Mystery, Crime, Thriller",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,6.51,78,zh,USA,Cui Rui,121,FALSE
 15,Ant-Man and the Wasp: Quantumania,476071180,214504909,45.10,261566271,54.90,2023,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.30,5038,en,USA,Peyton Reed,125,FALSE
 16,Transformers: Rise of the Beasts,441381193,157066392,35.60,284314801,64.40,2023,"Science Fiction, Adventure, Action",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.30,4680,en,USA,Steven Caple Jr.,127,FALSE
 17,John Wick: Chapter 4,440180275,187131806,42.50,253048469,57.50,2023,"Action, Thriller, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.73,6651,en,USA,Chad Stahelski,169,FALSE
@@ -1436,19 +1436,19 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 27,The Flash,271433313,108133313,39.80,163300000,60.20,2023,"Adventure, Action, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.70,4309,en,USA,Andy Muschietti,144,FALSE
 28,The Nun II,269667073,86267073,32.00,183400000,68.00,2023,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,6.70,2069,en,USA,Michael Chaves,110,FALSE
 29,Taylor Swift: The Eras Tour,261656269,180756269,69.10,80900000,30.90,2023,Music,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8.25,418,en,USA,Sam Wrench,169,FALSE
-30,Wish,254997360,63973821,25.10,191023539,74.90,2023,"Animation, Family, Fantasy, Adventure",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.33,1494,en,USA,"Chris Buck, Fawn Veerasunthorn",95,FALSE
+30,Wish,254997360,63973821,25.10,191023539,74.90,2023,"Animation, Family, Fantasy, Adventure",0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6.33,1494,en,USA,Chris Buck,95,FALSE
 31,Sound of Freedom,250570396,184178046,73.50,66392350,26.50,2023,"Action, Drama",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.99,2431,en,USA,Alejandro Monteverde,131,FALSE
 32,Napoleon,221394838,61524375,27.80,159870463,72.20,2023,"History, War, Romance",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,6.40,2544,en,USA,Ridley Scott,158,FALSE
 33,Anyone But You,220310798,88319668,40.10,131991130,59.90,2023,"Romance, Comedy",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.90,2288,en,USA,Will Gluck,103,FALSE
 34,Trolls Band Together,209372790,102996915,49.20,106375875,50.80,2023,"Animation, Family, Music, Fantasy, Comedy",0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,7.30,858,en,USA,Walt Dohrn,92,FALSE
 35,The Marvels,206136825,84500223,41.00,121636602,59.00,2023,"Science Fiction, Adventure, Action",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.05,2745,en,USA,Nia DaCosta,105,FALSE
-36,Dungeons & Dragons: Honor Among Thieves,205187763,93277026,45.50,111910737,54.50,2023,"Adventure, Fantasy, Comedy",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7.40,3675,en,USA,"Jonathan Goldstein, John Francis Daley",134,FALSE
+36,Dungeons & Dragons: Honor Among Thieves,205187763,93277026,45.50,111910737,54.50,2023,"Adventure, Fantasy, Comedy",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7.40,3675,en,USA,Jonathan Goldstein,134,FALSE
 37,PAW Patrol: The Mighty Movie,204986920,65231360,31.80,139755560,68.20,2023,"Animation, Family, Action, Science Fiction, Comedy, Drama, Adventure",1,1,1,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,7.00,462,en,USA,Cal Brunker,88,FALSE
 38,The Equalizer 3,191067560,92373751,48.30,98693809,51.70,2023,"Action, Thriller, Crime",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,7.33,3023,en,USA,Antoine Fuqua,109,FALSE
 39,Insidious: The Red Door,189086877,82156962,43.40,106929915,56.60,2023,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.60,1695,en,USA,Patrick Wilson,107,FALSE
 40,Teenage Mutant Ninja Turtles: Mutant Mayhem,181848832,118613586,65.20,63235246,34.80,2023,"Animation, Comedy, Action, Science Fiction",1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.20,1309,en,USA,Jeff Rowe,99,FALSE
 41,The Boy and the Heron,172766713,46832867,27.10,125933846,72.90,2023,"Animation, Adventure, Fantasy, Family, Drama",0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,7.46,1902,ja,USA,Hayao Miyazaki,124,FALSE
-42,Scream VI,166347514,108161389,65.00,58186125,35.00,2023,"Horror, Crime, Thriller",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,7.00,2646,en,USA,"Matt Bettinelli-Olpin, Tyler Gillett",122,FALSE
+42,Scream VI,166347514,108161389,65.00,58186125,35.00,2023,"Horror, Crime, Thriller",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,7.00,2646,en,USA,Matt Bettinelli-Olpin,122,FALSE
 43,Killers of the Flower Moon,158764012,68026901,42.80,90737111,57.20,2023,"Crime, History, Drama",0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,7.44,3342,en,USA,Martin Scorsese,206,FALSE
 44,Evil Dead Rise,147033054,67233054,45.70,79800000,54.30,2023,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6.90,3123,en,USA,Lee Cronin,96,FALSE
 45,The Exorcist: Believer,136294607,65537395,48.10,70757212,51.90,2023,"Horror, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,5.90,1050,en,USA,David Gordon Green,111,FALSE
@@ -1463,7 +1463,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 54,Saw X,112202480,53607898,47.80,58594582,52.20,2023,"Horror, Mystery, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,7.20,1965,en,USA,Kevin Greutert,118,FALSE
 56,The Creator,104272136,40774679,39.10,63497457,60.90,2023,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,7.09,3049,en,USA,Gareth Edwards,133,FALSE
 58,Animal,92870950,15004482,16.20,77866468,83.80,2023,"Action, Crime, Drama",1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6.40,113,hi,USA,Sandeep Reddy Vanga,201,FALSE
-59,Talk to Me,92181735,48299436,52.40,43882299,47.60,2023,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7.16,3020,en,USA,"Danny Philippou, Michael Philippou",95,FALSE
+59,Talk to Me,92181735,48299436,52.40,43882299,47.60,2023,Horror,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,7.16,3020,en,USA,Danny Philippou,95,FALSE
 60,Air,90060106,52460106,58.30,37600000,41.70,2023,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.34,1926,en,USA,Ben Affleck,112,FALSE
 61,Cocaine Bear,88314672,64670240,73.20,23644432,26.80,2023,"Thriller, Comedy, Crime",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6.04,2059,en,USA,Elizabeth Banks,95,FALSE
 62,No Hard Feelings,87256407,50452282,57.80,36804125,42.20,2023,"Comedy, Romance",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.77,3059,en,USA,Gene Stupnitsky,103,FALSE
@@ -1472,7 +1472,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 65,Plane,74515586,32111181,43.10,42404405,56.90,2023,"Action, Adventure, Thriller",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.95,2236,en,USA,Jean-François Richet,107,FALSE
 67,The Color Purple,68819191,60619191,88.10,8200000,11.90,2023,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.10,272,en,USA,Blitz Bazawule,141,FALSE
 68,The Boogeyman,67307243,43244282,64.20,24062961,35.80,2023,"Horror, Thriller, Mystery",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.40,883,en,USA,Rob Savage,98,FALSE
-69,65,60730568,32062904,52.80,28667664,47.20,2023,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5.98,2408,en,USA,"Scott Beck, Bryan Woods",93,FALSE
+69,65,60730568,32062904,52.80,28667664,47.20,2023,"Action, Adventure, Science Fiction",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5.98,2408,en,USA,Scott Beck,93,FALSE
 70,Spy x Family Code: White,59629242,8110042,13.60,51519200,86.40,2023,"Animation, Comedy, Adventure, Action",1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.06,471,ja,USA,Takashi Katagiri,110,FALSE
 71,Magic Mike's Last Dance,57105156,26005156,45.50,31100000,54.50,2023,"Comedy, Drama, Romance",0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.56,499,en,USA,Steven Soderbergh,112,FALSE
 72,One Life,56475835,5716885,10.10,50758950,89.90,2023,"History, Drama",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.80,686,en,USA,James Hawes,109,FALSE
@@ -1480,11 +1480,11 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 74,The Boys in the Boat,55501365,52641306,94.80,2860059,5.20,2023,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.29,254,en,USA,George Clooney,124,FALSE
 75,Knock at the Cabin,54760947,35397980,64.60,19362967,35.40,2023,"Thriller, Mystery, Horror",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.30,2670,en,USA,M. Night Shyamalan,100,FALSE
 76,Mummies,54475970,4275970,7.80,50200000,92.20,2023,"Animation, Adventure, Fantasy",0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7.00,458,es,USA,Juan Jesús García Galocha,88,FALSE
-77,Jesus Revolution,54293684,52102987,96.00,2190697,4.00,2023,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6.70,132,en,USA,"Jon Erwin, Brent McCorkle",120,FALSE
+77,Jesus Revolution,54293684,52102987,96.00,2190697,4.00,2023,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,6.70,132,en,USA,Jon Erwin,120,FALSE
 78,Asteroid City,53857743,28153025,52.30,25704718,47.70,2023,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6.48,1903,en,USA,Wes Anderson,105,FALSE
 79,The Zone of Interest,52790256,8659464,16.40,44130792,83.60,2023,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.08,1824,en,USA,Jonathan Glazer,105,FALSE
 81,Operation Fortune: Ruse de Guerre,48983306,6496125,13.30,42487181,86.70,2023,"Action, Thriller, Comedy, Adventure",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.50,1534,en,USA,Guy Ritchie,114,FALSE
-82,Missing,48767848,32502025,66.60,16265823,33.40,2023,"Drama, Mystery, Thriller",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,7.44,1031,en,USA,"Will Merrick, Nick Johnson",111,FALSE
+82,Missing,48767848,32502025,66.60,16265823,33.40,2023,"Drama, Mystery, Thriller",0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,7.44,1031,en,USA,Will Merrick,111,FALSE
 83,Thanksgiving,46553280,31908884,68.50,14644396,31.50,2023,"Horror, Mystery, Thriller",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,6.60,1229,en,USA,Eli Roth,106,FALSE
 85,The Holdovers,45661644,20355375,44.60,25306269,55.40,2023,"Comedy, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.70,1717,en,USA,Alexander Payne,133,FALSE
 86,Ruby Gillman: Teenage Kraken,45657745,15753600,34.50,29904145,65.50,2023,"Animation, Family, Fantasy, Comedy",0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,7.20,976,en,USA,Kirk DeMicco,91,FALSE
@@ -1501,7 +1501,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 180,The Crime Is Mine,10473689,122083,1.20,10351606,98.80,2023,"Crime, Comedy, Mystery, Drama",0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,6.45,392,fr,"USA, United Kingdom",François Ozon,102,FALSE
 181,The Taste of Things,10462726,2654510,25.40,7808216,74.60,2023,"Romance, Drama",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7.06,282,fr,"USA, United Kingdom",Trần Anh Hùng,135,FALSE
 184,Freelance,10196704,5314136,52.10,4882568,47.90,2023,"Action, Comedy",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.47,988,en,"USA, United Kingdom",Pierre Morel,108,FALSE
-187,The Peasants,10064347,155188,1.50,9909159,98.50,2023,"Drama, History, Animation",0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.70,112,pl,"USA, United Kingdom","DK Welchman, Hugh Welchman",114,FALSE
+187,The Peasants,10064347,155188,1.50,9909159,98.50,2023,"Drama, History, Animation",0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.70,112,pl,"USA, United Kingdom",DK Welchman,114,FALSE
 189,Kandahar,9387311,4813132,51.30,4574179,48.70,2023,"Action, Thriller",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,6.80,1035,en,"USA, United Kingdom",Ric Roman Waugh,119,FALSE
 2,Gladiator,460583960,187705427,40.80,272878533,59.20,2000,"Action, Drama, Adventure",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8.22,19032,en,"USA, United Kingdom",Ridley Scott,155,TRUE
 2,The Lord of the Rings: The Fellowship of the Ring,868385360,313364114,36.10,555021246,63.90,2001,"Adventure, Fantasy, Action",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,8.40,25348,en,"USA, United Kingdom",Peter Jackson,178,TRUE
@@ -1510,7 +1510,7 @@ rank,title,worldwide_revenue,domestic_revenue,domestic_percent,foreign_revenue,f
 21,Million Dollar Baby,216763646,100492203,46.40,116271443,53.60,2004,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.96,9578,en,USA,Clint Eastwood,132,TRUE
 53,Crash,98410061,54580300,55.50,43829761,44.50,2005,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.22,3467,en,"USA, United Kingdom",Paul Haggis,112,TRUE
 14,The Departed,291465034,132384315,45.40,159080719,54.60,2006,"Drama, Thriller, Crime",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,8.16,14946,en,"USA, United Kingdom",Martin Scorsese,151,TRUE
-32,No Country for Old Men,171627166,74283625,43.30,97343541,56.70,2007,"Crime, Drama, Thriller",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,7.94,12052,en,USA,"Joel Cohen, Ethan Cohen",122,TRUE
+32,No Country for Old Men,171627166,74283625,43.30,97343541,56.70,2007,"Crime, Drama, Thriller",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,7.94,12052,en,USA,Joel Cohen,122,TRUE
 14,Slumdog Millionaire,378410113,141319928,37.30,237090185,62.70,2008,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7.73,10573,en,USA,Danny Boyle,120,TRUE
 105,The Hurt Locker,49230772,17017811,34.60,32212961,65.40,2008,"Drama, Thriller, War",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,7.26,5617,en,USA,Kathryn Bigelow,130,TRUE
 13,The King's Speech,412018551,135453143,32.90,276565408,67.10,2010,"Drama, History",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,7.70,8701,en,United Kingdom,Tom Hooper,119,TRUE
