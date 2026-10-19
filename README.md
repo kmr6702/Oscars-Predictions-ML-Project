@@ -24,7 +24,7 @@ File: `model_2.ipynb`
 
 **Model 3: A model that will use historical data on Oscars winners to predict whether a movie was nominated for an award in the 2026 Awards Season.**
 
-Location:
+Location: `Wiki_test` folder
 
 **Model 4: A model that will use historical data on Oscars winners to predict whether a movie will be nominated for the 2027 Awards Season.**
 
@@ -50,7 +50,7 @@ This file contains the features used by the Neural Network to predict whether or
 
 Location: `Wiki_test`.
 
-This folder contains code for scraping Wikipedia's API for relevant data for the model, as well as the data itself.
+This folder contains data scraped from Wikipedia's API.
 
 ### Resources
 Research papers, reference links, notes that you used for the project, and final presentation slides.
