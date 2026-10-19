@@ -20,7 +20,7 @@ File: `sentiment_analysis.ipynb`
 
 **Model 2: A Neural Network model that will predict whether a movie won an Oscar.**
 
-Location:
+File: `model_2.ipynb`
 
 **Model 3: A model that will use historical data on Oscars winners to predict whether a movie was nominated for an award in the 2026 Awards Season.**
 
@@ -33,7 +33,24 @@ Location:
 ### Data (Data Folder)
 Datasets, pre-trained models, etc.
 
-Sentiment Analysis Data: `sentiment_data` folder. Each file contains reviews on a given year's Oscar winning movie, labeled as `year_name.csv`.
+**Sentiment Analysis Data:** 
+
+Location: `sentiment_data` folder. 
+
+Each file of format `year_name.csv`contains reviews on a given year's Oscar winning movie.
+The file `essential_movies.csv` contains information about the non-Oscar-winning movies.
+
+**Neural Network Data:** 
+
+File Name: `model_2_dataset.csv`.
+
+This file contains the features used by the Neural Network to predict whether or not a movie won an Oscar.
+
+**Model 3 Data:** 
+
+Location: `Wiki_test`.
+
+This folder contains code for scraping Wikipedia's API for relevant data for the model, as well as the data itself.
 
 ### Resources
 Research papers, reference links, notes that you used for the project, and final presentation slides.
