@@ -18,9 +18,9 @@ All the scripts, notebooks, and implementations.
 
 File: `sentiment_analysis.ipynb`
 
-**Model 2: A Neural Network model that will predict whether a movie won an Oscar.**
+**Model 2: An MLP that will predict whether a movie was nominated for Best Picture in the Oscars.**
 
-File: `model_2.ipynb`
+File: `model2_nn.ipynb`
 
 **Model 3: A model that will use historical data on Oscars winners to predict whether a movie was nominated for an award in the 2026 Awards Season.**
 
