@@ -18,6 +18,8 @@ All the scripts, notebooks, and implementations.
 
 File: `sentiment_analysis.ipynb`
 
+This model is a pipeline consisting of two models. The sentiment analysis model, an SVM, performs sentiment analysis on the Rotten Tomatoes reviews, and the other, a Logistic Regression model, classifies a movie as an Oscar Winner or not using this sentiment and other features.
+
 **Model 2: An MLP that will predict whether a movie was nominated for Best Picture in the Oscars.**
 
 File: `model2_nn.ipynb`
