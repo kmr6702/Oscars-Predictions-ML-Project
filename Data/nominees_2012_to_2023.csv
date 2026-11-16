@@ -1,0 +1,108 @@
+year_film,year_ceremony,ceremony,category,canon_category,name,film,winner
+2012,2013,85,BEST PICTURE,BEST PICTURE,Margaret Menegoz/Stefan Arndt/Veit Heiduschka/Michael Katz,Amour,FALSE
+2012,2013,85,BEST PICTURE,BEST PICTURE,Grant Heslov/Ben Affleck/George Clooney,Argo,TRUE
+2012,2013,85,BEST PICTURE,BEST PICTURE,Dan Janvey/Josh Penn/Michael Gottwald,Beasts of the Southern Wild,FALSE
+2012,2013,85,BEST PICTURE,BEST PICTURE,Stacey Sher/Reginald Hudlin/Pilar Savone,Django Unchained,FALSE
+2012,2013,85,BEST PICTURE,BEST PICTURE,Tim Bevan/Eric Fellner/Debra Hayward/Cameron Mackintosh,Les Misérables,FALSE
+2012,2013,85,BEST PICTURE,BEST PICTURE,Gil Netter/Ang Lee/David Womark,Life of Pi,FALSE
+2012,2013,85,BEST PICTURE,BEST PICTURE,Steven Spielberg/Kathleen Kennedy,Lincoln,FALSE
+2012,2013,85,BEST PICTURE,BEST PICTURE,Donna Gigliotti/Bruce Cohen/Jonathan Gordon,Silver Linings Playbook,FALSE
+2012,2013,85,BEST PICTURE,BEST PICTURE,Mark Boal/Kathryn Bigelow/Megan Ellison,Zero Dark Thirty,FALSE
+2013,2014,86,BEST PICTURE,BEST PICTURE,Charles Roven/Richard Suckle/Megan Ellison/Jonathan Gordon,American Hustle,FALSE
+2013,2014,86,BEST PICTURE,BEST PICTURE,Scott Rudin/Dana Brunetti/Michael De Luca,Captain Phillips,FALSE
+2013,2014,86,BEST PICTURE,BEST PICTURE,Robbie Brenner/Rachel Winter,Dallas Buyers Club,FALSE
+2013,2014,86,BEST PICTURE,BEST PICTURE,Alfonso Cuarón/David Heyman,Gravity,FALSE
+2013,2014,86,BEST PICTURE,BEST PICTURE,Megan Ellison/Spike Jonze/Vincent Landay,Her,FALSE
+2013,2014,86,BEST PICTURE,BEST PICTURE,Albert Berger/Ron Yerxa,Nebraska,FALSE
+2013,2014,86,BEST PICTURE,BEST PICTURE,Gabrielle Tana/Steve Coogan/Tracey Seaward,Philomena,FALSE
+2013,2014,86,BEST PICTURE,BEST PICTURE,Brad Pitt/Dede Gardner/Jeremy Kleiner/Steve McQueen/Anthony Katagas,12 Years a Slave,TRUE
+2013,2014,86,BEST PICTURE,BEST PICTURE,Martin Scorsese/Leonardo DiCaprio/Joey McFarland/Emma Tillinger Koskoff,The Wolf of Wall Street,FALSE
+2014,2015,87,BEST PICTURE,BEST PICTURE,Clint Eastwood/Robert Lorenz/Andrew Lazar/Bradley Cooper/Peter Morgan,American Sniper,FALSE
+2014,2015,87,BEST PICTURE,BEST PICTURE,Alejandro G. Iñárritu/John Lesher/James W. Skotchdopole,Birdman or (The Unexpected Virtue of Ignorance),TRUE
+2014,2015,87,BEST PICTURE,BEST PICTURE,Richard Linklater/Cathleen Sutherland,Boyhood,FALSE
+2014,2015,87,BEST PICTURE,BEST PICTURE,Wes Anderson/Scott Rudin/Steven Rales/Jeremy Dawson,The Grand Budapest Hotel,FALSE
+2014,2015,87,BEST PICTURE,BEST PICTURE,Nora Grossman/Ido Ostrowsky/Teddy Schwarzman,The Imitation Game,FALSE
+2014,2015,87,BEST PICTURE,BEST PICTURE,Christian Colson/Oprah Winfrey/Dede Gardner/Jeremy Kleiner,Selma,FALSE
+2014,2015,87,BEST PICTURE,BEST PICTURE,Tim Bevan/Eric Fellner/Lisa Bruce/Anthony McCarten,The Theory of Everything,FALSE
+2014,2015,87,BEST PICTURE,BEST PICTURE,Jason Blum/Helen Estabrook/David Lancaster,Whiplash,FALSE
+2015,2016,88,BEST PICTURE,BEST PICTURE,Brad Pitt/Dede Gardner/Jeremy Kleiner,The Big Short,FALSE
+2015,2016,88,BEST PICTURE,BEST PICTURE,Steven Spielberg/Marc Platt/Kristie Macosko Krieger,Bridge of Spies,FALSE
+2015,2016,88,BEST PICTURE,BEST PICTURE,Finola Dwyer/Amanda Posey,Brooklyn,FALSE
+2015,2016,88,BEST PICTURE,BEST PICTURE,Doug Mitchell/George Miller,Mad Max: Fury Road,FALSE
+2015,2016,88,BEST PICTURE,BEST PICTURE,Simon Kinberg/Ridley Scott/Michael Schaefer/Mark Huffam,The Martian,FALSE
+2015,2016,88,BEST PICTURE,BEST PICTURE,Arnon Milchan/Steve Golin/Alejandro G. Iñárritu/Mary Parent/Keith Redmon,The Revenant,FALSE
+2015,2016,88,BEST PICTURE,BEST PICTURE,Ed Guiney,Room,FALSE
+2015,2016,88,BEST PICTURE,BEST PICTURE,Michael Sugar/Steve Golin/Nicole Rocklin/Blye Pagon Faust,Spotlight,TRUE
+2016,2017,89,BEST PICTURE,BEST PICTURE,Shawn Levy/Dan Levine/Aaron Ryder/David Linde,Arrival,FALSE
+2016,2017,89,BEST PICTURE,BEST PICTURE,Scott Rudin/Denzel Washington/Todd Black,Fences,FALSE
+2016,2017,89,BEST PICTURE,BEST PICTURE,Bill Mechanic/David Permut,Hacksaw Ridge,FALSE
+2016,2017,89,BEST PICTURE,BEST PICTURE,Carla Hacken/Julie Yorn,Hell or High Water,FALSE
+2016,2017,89,BEST PICTURE,BEST PICTURE,Donna Gigliotti/Peter Chernin/Jenno Topping/Pharrell Williams/Theodore Melfi,Hidden Figures,FALSE
+2016,2017,89,BEST PICTURE,BEST PICTURE,Fred Berger/Jordan Horowitz/Marc Platt,La La Land,FALSE
+2016,2017,89,BEST PICTURE,BEST PICTURE,Emile Sherman/Iain Canning/Angie Fielder,Lion,FALSE
+2016,2017,89,BEST PICTURE,BEST PICTURE,Matt Damon/Kimberly Steward/Chris Moore/Lauren Beck/Kevin J. Walsh,Manchester by the Sea,FALSE
+2016,2017,89,BEST PICTURE,BEST PICTURE,Adele Romanski/Dede Gardner/Jeremy Kleiner,Moonlight,TRUE
+2017,2018,90,BEST PICTURE,BEST PICTURE,Peter Spears/Luca Guadagnino/Emilie Georges/Marco Morabito,Call Me by Your Name,FALSE
+2017,2018,90,BEST PICTURE,BEST PICTURE,Tim Bevan/Eric Fellner/Lisa Bruce/Anthony McCarten/Douglas Urbanski,Darkest Hour,FALSE
+2017,2018,90,BEST PICTURE,BEST PICTURE,Emma Thomas/Christopher Nolan,Dunkirk,FALSE
+2017,2018,90,BEST PICTURE,BEST PICTURE,Sean McKittrick/Jason Blum/Edward H. Hamm Jr./Jordan Peele,Get Out,FALSE
+2017,2018,90,BEST PICTURE,BEST PICTURE,Scott Rudin/Eli Bush/Evelyn O'Neill,Lady Bird,FALSE
+2017,2018,90,BEST PICTURE,BEST PICTURE,JoAnne Sellar/Paul Thomas Anderson/Megan Ellison/Daniel Lupi,Phantom Thread,FALSE
+2017,2018,90,BEST PICTURE,BEST PICTURE,Amy Pascal/Steven Spielberg/Kristie Macosko Krieger,The Post,FALSE
+2017,2018,90,BEST PICTURE,BEST PICTURE,Guillermo del Toro/J. Miles Dale,The Shape of Water,TRUE
+2017,2018,90,BEST PICTURE,BEST PICTURE,Graham Broadbent/Pete Czernin/Martin McDonagh,"Three Billboards outside Ebbing, Missouri",FALSE
+2018,2019,91,BEST PICTURE,BEST PICTURE,Kevin Feige,Black Panther,FALSE
+2018,2019,91,BEST PICTURE,BEST PICTURE,Sean McKittrick/Jason Blum/Raymond Mansfield/Jordan Peele/Spike Lee,BlacKkKlansman,FALSE
+2018,2019,91,BEST PICTURE,BEST PICTURE,Graham King,Bohemian Rhapsody,FALSE
+2018,2019,91,BEST PICTURE,BEST PICTURE,Ceci Dempsey/Ed Guiney/Lee Magiday/Yorgos Lanthimos,The Favourite,FALSE
+2018,2019,91,BEST PICTURE,BEST PICTURE,Jim Burke/Charles B. Wessler/Brian Currie/Peter Farrelly/Nick Vallelonga,Green Book,TRUE
+2018,2019,91,BEST PICTURE,BEST PICTURE,Gabriela Rodríguez/Alfonso Cuarón,Roma,FALSE
+2018,2019,91,BEST PICTURE,BEST PICTURE,Bill Gerber/Bradley Cooper/Lynette Howell Taylor,A Star Is Born,FALSE
+2018,2019,91,BEST PICTURE,BEST PICTURE,Dede Gardner/Jeremy Kleiner/Adam McKay/Kevin Messick,Vice,FALSE
+2019,2020,92,BEST PICTURE,BEST PICTURE,Peter Chernin/Jenno Topping/James Mangold,Ford v Ferrari,FALSE
+2019,2020,92,BEST PICTURE,BEST PICTURE,Martin Scorsese/Robert De Niro/Jane Rosenthal/Emma Tillinger Koskoff,The Irishman,FALSE
+2019,2020,92,BEST PICTURE,BEST PICTURE,Carthew Neal/Taika Waititi/Chelsea Winstanley,Jojo Rabbit,FALSE
+2019,2020,92,BEST PICTURE,BEST PICTURE,Todd Phillips/Bradley Cooper/Emma Tillinger Koskoff,Joker,FALSE
+2019,2020,92,BEST PICTURE,BEST PICTURE,Amy Pascal,Little Women,FALSE
+2019,2020,92,BEST PICTURE,BEST PICTURE,Noah Baumbach/David Heyman,Marriage Story,FALSE
+2019,2020,92,BEST PICTURE,BEST PICTURE,Sam Mendes/Pippa Harris/Jayne-Ann Tenggren/Callum McDougall,1917,FALSE
+2019,2020,92,BEST PICTURE,BEST PICTURE,David Heyman/Shannon McIntosh/Quentin Tarantino,Once upon a Time...in Hollywood,FALSE
+2019,2020,92,BEST PICTURE,BEST PICTURE,Kwak Sin Ae/Bong Joon Ho,Parasite,TRUE
+2020,2021,93,BEST PICTURE,BEST PICTURE,David Parfitt/Jean-Louis Livi/Philippe Carcassonne,The Father,FALSE
+2020,2021,93,BEST PICTURE,BEST PICTURE,Shaka King/Charles D. King/Ryan Coogler,Judas and the Black Messiah,FALSE
+2020,2021,93,BEST PICTURE,BEST PICTURE,Ceán Chaffin/Eric Roth/Douglas Urbanski,Mank,FALSE
+2020,2021,93,BEST PICTURE,BEST PICTURE,Christina Oh,Minari,FALSE
+2020,2021,93,BEST PICTURE,BEST PICTURE,Frances McDormand/Peter Spears/Mollye Asher/Dan Janvey/Chloé Zhao,Nomadland,TRUE
+2020,2021,93,BEST PICTURE,BEST PICTURE,Ben Browning/Ashley Fox/Emerald Fennell/Josey McNamara,Promising Young Woman,FALSE
+2020,2021,93,BEST PICTURE,BEST PICTURE,Bert Hamelinck/Sacha Ben Harroche,Sound of Metal,FALSE
+2020,2021,93,BEST PICTURE,BEST PICTURE,Marc Platt/Stuart Besser,The Trial of the Chicago 7,FALSE
+2021,2022,94,BEST PICTURE,BEST PICTURE,Laura Berwick/Kenneth Branagh/Becca Kovacik/Tamar Thomas,Belfast,FALSE
+2021,2022,94,BEST PICTURE,BEST PICTURE,Philippe Rousselet/Fabrice Gianfermi/Patrick Wachsberger,CODA,TRUE
+2021,2022,94,BEST PICTURE,BEST PICTURE,Adam McKay/Kevin Messick,Don't Look Up,FALSE
+2021,2022,94,BEST PICTURE,BEST PICTURE,Teruhisa Yamamoto,Drive My Car,FALSE
+2021,2022,94,BEST PICTURE,BEST PICTURE,Mary Parent/Denis Villeneuve/Cale Boyter,Dune,FALSE
+2021,2022,94,BEST PICTURE,BEST PICTURE,Tim White/Trevor White/Will Smith,King Richard,FALSE
+2021,2022,94,BEST PICTURE,BEST PICTURE,Sara Murphy/Adam Somner/Paul Thomas Anderson,Licorice Pizza,FALSE
+2021,2022,94,BEST PICTURE,BEST PICTURE,Guillermo del Toro/J. Miles Dale/Bradley Cooper,Nightmare Alley,FALSE
+2021,2022,94,BEST PICTURE,BEST PICTURE,Jane Campion/Tanya Seghatchian/Emile Sherman/Iain Canning/Roger Frappier,The Power of the Dog,FALSE
+2021,2022,94,BEST PICTURE,BEST PICTURE,Steven Spielberg/Kristie Macosko Krieger,West Side Story,FALSE
+2022,2023,95,BEST PICTURE,BEST PICTURE,Malte Grunert,All Quiet on the Western Front,FALSE
+2022,2023,95,BEST PICTURE,BEST PICTURE,James Cameron/Jon Landau,Avatar: The Way of Water,FALSE
+2022,2023,95,BEST PICTURE,BEST PICTURE,Graham Broadbent/Pete Czernin/Martin McDonagh,The Banshees of Inisherin,FALSE
+2022,2023,95,BEST PICTURE,BEST PICTURE,Baz Luhrmann/Catherine Martin/Gail Berman/Patrick McCormick/Schuyler Weiss,Elvis,FALSE
+2022,2023,95,BEST PICTURE,BEST PICTURE,Daniel Kwan/Daniel Scheinert/Jonathan Wang,Everything Everywhere All at Once,TRUE
+2022,2023,95,BEST PICTURE,BEST PICTURE,Kristie Macosko Krieger/Steven Spielberg/Tony Kushner,The Fabelmans,FALSE
+2022,2023,95,BEST PICTURE,BEST PICTURE,Todd Field/Alexandra Milchan/Scott Lambert,Tár,FALSE
+2022,2023,95,BEST PICTURE,BEST PICTURE,Tom Cruise/Christopher McQuarrie/David Ellison/Jerry Bruckheimer,Top Gun: Maverick,FALSE
+2022,2023,95,BEST PICTURE,BEST PICTURE,Erik Hemmendorff/Philippe Bober,Triangle of Sadness,FALSE
+2022,2023,95,BEST PICTURE,BEST PICTURE,Dede Gardner/Jeremy Kleiner/Frances McDormand,Women Talking,FALSE
+2023,2024,96,BEST PICTURE,BEST PICTURE,Ben LeClair/Nikos Karamigios/Cord Jefferson/Jermaine Johnson,American Fiction,FALSE
+2023,2024,96,BEST PICTURE,BEST PICTURE,Marie-Ange Luciani/David Thion,Anatomy of a Fall,FALSE
+2023,2024,96,BEST PICTURE,BEST PICTURE,David Heyman/Margot Robbie/Tom Ackerley/Robbie Brenner,Barbie,FALSE
+2023,2024,96,BEST PICTURE,BEST PICTURE,Mark Johnson,The Holdovers,FALSE
+2023,2024,96,BEST PICTURE,BEST PICTURE,Dan Friedkin/Bradley Thomas/Martin Scorsese/Daniel Lupi,Killers of the Flower Moon,FALSE
+2023,2024,96,BEST PICTURE,BEST PICTURE,Bradley Cooper/Steven Spielberg/Fred Berner/Amy Durning/Kristie Macosko Krieger,Maestro,FALSE
+2023,2024,96,BEST PICTURE,BEST PICTURE,Emma Thomas/Charles Roven/Christopher Nolan,Oppenheimer,TRUE
+2023,2024,96,BEST PICTURE,BEST PICTURE,David Hinojosa/Christine Vachon/Pamela Koffler,Past Lives,FALSE
+2023,2024,96,BEST PICTURE,BEST PICTURE,Ed Guiney/Andrew Lowe/Yorgos Lanthimos/Emma Stone,Poor Things,FALSE
+2023,2024,96,BEST PICTURE,BEST PICTURE,James Wilson,The Zone of Interest,FALSE

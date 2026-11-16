@@ -22,7 +22,9 @@ This model is a pipeline consisting of two models. The sentiment analysis model,
 
 **Model 2: An MLP that will predict whether a movie was nominated for Best Picture in the Oscars.**
 
-File: `model2_nn.ipynb`
+File: `model2_mlp.ipynb`
+
+This file contains the preprocessing, training, hyperparameter tuning, and evaluation of an MLP predicting whether a movie was nominated for Best Picture. 
 
 **Model 3: A model that will use historical data on Oscars winners to predict whether a movie was nominated for an award in the 2026 Awards Season.**
 
@@ -44,9 +46,9 @@ The file `essential_movies.csv` contains information about the non-Oscar-winning
 
 **Neural Network Data:** 
 
-File Name: `model_2_dataset.csv`.
+File Name: `films_2012_to_2023.csv` and `nominees_2012_to_2023.csv`.
 
-This file contains the features used by the Neural Network to predict whether or not a movie won an Oscar.
+The first file file contains the features used by the MLP to predict whether or not a movie was nominated for an Oscar. The second file is used in preprocessing to label the films in the first file with their nomination status.
 
 **Model 3 Data:** 
 
