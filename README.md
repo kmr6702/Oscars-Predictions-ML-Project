@@ -26,13 +26,30 @@ File: `model2_mlp.ipynb`
 
 This file contains the preprocessing, training, hyperparameter tuning, and evaluation of an MLP predicting whether a movie was nominated for Best Picture. 
 
-**Model 3: A model that will use historical data on Oscars winners to predict whether a movie was nominated for an award in the 2026 Awards Season.**
+**Model 3: A model that will use historical data on Oscars nominees and non-nominees to predict whether a movie was nominated for an award in the 2026 Awards Season.**
+
+Location: 
+
+**Model 4: A model that will use historical data on Oscars nominees and non-nominees to predict whether a movie will be nominated for the 2027 Awards Season.**
+
+Location: 
+
+**Wikipedia Scraping Code: This code was used to gather data from Wikipedia**
 
 Location: `Wiki_test` folder
 
-**Model 4: A model that will use historical data on Oscars winners to predict whether a movie will be nominated for the 2027 Awards Season.**
+```
+Wiki_test/
+|
+├──analyze_wiki.py
+├──main.py
+├──movies_2000.csv
+├──scraper.py
+└──txt_to_csv.py
+```
 
-Location: 
+This code uses Wikipedia's built-in scraper API to scrape Wikipedia pages that contain information about movies for a specific year. `scraper.py` calls the API, which writes the contents of the Wikipedia page to a JSON file; after that, the JSON file is passed to `analyze_wiki.py`, which rewrites the JSON into a text file. Finally, `txt_csv.py` converts the text file into a CSV file, accounting for differences in how Wikipedia has charts formatted. `main.py` allows the user to select how many pages they want to scrape, and will loop through all of the above functions, with all of the movies being appended to `movies_2000.csv`
+
 
 ### Data (Data Folder)
 Datasets, pre-trained models, etc.
@@ -41,7 +58,7 @@ Datasets, pre-trained models, etc.
 
 Location: `sentiment_data` folder. 
 
-Each file of format `year_name.csv`contains reviews on a given year's Oscar winning movie.
+Each file of format `year_name.csv`contains reviews on a given year's Oscar-winning movie.
 The file `essential_movies.csv` contains information about the non-Oscar-winning movies.
 
 **Neural Network Data:** 
