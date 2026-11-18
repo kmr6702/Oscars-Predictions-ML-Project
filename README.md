@@ -1,6 +1,7 @@
+# CSCI 635
 # Oscars-Predictions-ML-Project
 
-Movie buffs eagerly await the Oscars season, and may be unsure whether their favorite movie will be nominated or win. Through this project, we hope to analyze historic data on blockbuster movies, including their gross revenue, Rotten Tomatoes reviews, etc., to analyze the success of previous movies and predict nominations for the 2027 season.
+Movie buffs eagerly await the Oscars season, and may be unsure whether their favorite movie will be nominated or win. Through this project, we hope to analyze historic data on blockbuster movies, including their gross revenue, Rotten Tomatoes reviews, etc., to analyze the success of previous movies and predict winners and nominations for previous and future seasons.
 
 ## Group Members
  Saera Chung
@@ -12,13 +13,18 @@ Movie buffs eagerly await the Oscars season, and may be unsure whether their fav
 ## Project Structure
 
 ### Code (Code Folder)
-All the scripts, notebooks, and implementations.
+As we have four models, we separate our code into four files. Descriptions of the models and their locations are included in this section.
 
 **Model 1: A model that will perform sentiment analysis on Rotten Tomatoes reviews to predict whether a movie won an Oscar.**
 
-File: `sentiment_analysis.ipynb`
+Location: 
+```
+Wiki_test/
+|
+├──sentiment_analysis.ipyn
+```
 
-This model is a pipeline consisting of two models. The sentiment analysis model, an SVM, performs sentiment analysis on the Rotten Tomatoes reviews, and the other, a Logistic Regression model, classifies a movie as an Oscar Winner or not using this sentiment and other features.
+Model 1 is a sentiment analysis model pipeline that uses Rotten Tomatoes reviews and statistics such as the creation date of the review, the rating assigned to it, and whether or not the reviewer was a verified reviewer to predict whether a movie won an Oscar. It uses two models to accomplish this task. The first uses an SVM to assign a sentiment rating from 1 to 5 to a movie based on its Rotten Tomatoes review. The second is a Logistic Regression model that uses the sentiment prediction and other columns from the dataset to classify the movie as an Oscar Winner or not.
 
 **Model 2: An MLP that will predict whether a movie was nominated for Best Picture in the Oscars.**
 
@@ -52,16 +58,62 @@ This code uses Wikipedia's built-in scraper API to scrape Wikipedia pages that c
 
 
 ### Data (Data Folder)
-Datasets, pre-trained models, etc.
+In this section, we describe the datasets used in each of our models.
 
-**Sentiment Analysis Data:** 
+**Model 1: Sentiment Analysis Data** 
 
-Location: `sentiment_data` folder. 
+Location:
+```
+sentiment_data/
+|
+├──2000_gladiator_user.csv
+├──2001_a_beautiful_mind_user.csv
+├──2002_chicago_user.csv
+├──2003_the_lord_of_the_rings_the_return_of_the_king_user.csv
+├──2004_million_dollar_baby_user.csv
+├──2005_crash_user.csv
+├──2006_the_departed_user.csv
+├──2007_no_country_for_old_men_user.csv
+├──2008_slumdog_millionaire_user.csv
+├──2009_the_hurt_locker_user.csv
+├──2010_the_kings_speech_user.csv
+├──2011_the_artist_user.csv
+├──2012_Argo_user.csv
+├──2013_12_years_a_slave_user.csv
+├──2014_birdman_user.csv
+├──2015_spotlight_user.csv
+├──2016_moonlight_user.csv
+├──2017_the_shape_of_water_user.csv
+├──2018_green_book_user.csv
+├──2019_parasite_user.csv
+├──2020_nomadland_user.csv
+├──2021_coda_user.csv
+├──2022_everything_everywhere_all_at_once_user.csv
+├──2023_oppenheimer_user.csv
+├──essential_movies.csv
+```
 
-Each file of format `year_name.csv`contains reviews on a given year's Oscar-winning movie.
-The file `essential_movies.csv` contains information about the non-Oscar-winning movies.
+Each file of format `year_name.csv` contains reviews on a given year's Oscar-winning movie. The file `essential_movies.csv` contains information about the non-Oscar-winning movies.
 
-**Neural Network Data:** 
+We combine the CSVs to create a final dataset consisting of 4800 rows of data. We take 100 reviews from each of the Oscar-winning movies, for a total of 2400 Oscar-winning reviews, and 2400 reviews from the non-Oscar-winning movies. 
+
+From there, we use the following columns in our X and y datasets for each model.
+
+Sentiment Analysis Model (SVM):
+
+- X = [quote]
+  - This is tokenized and preprocessed appropriately before use by the SVM.
+- y = [rating]
+  - This is processed to convert fractional ratings into integer ratings before use by the SVM.
+
+Classification Model (Logistic Regression):
+
+- X = [isVerified, isSuperReviewer, hasSpoilers, hasProfanity, score, creationDate, movieTitle, sentiment_classification]
+  - Each column is appropriately preprocessed before use by the Logistic Regression model.
+- y = [oscarWinner]
+
+
+**Model 2: Neural Network Data** 
 
 File Name: `films_2012_to_2023.csv` and `nominees_2012_to_2023.csv`.
 
