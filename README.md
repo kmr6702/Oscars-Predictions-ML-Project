@@ -101,16 +101,16 @@ From there, we use the following columns in our X and y datasets for each model.
 
 Sentiment Analysis Model (SVM):
 
-- X = [quote]
+- `X = [quote]`
   - This is tokenized and preprocessed appropriately before use by the SVM.
-- y = [rating]
+- `y = [rating]`
   - This is processed to convert fractional ratings into integer ratings before use by the SVM.
 
 Classification Model (Logistic Regression):
 
-- X = [isVerified, isSuperReviewer, hasSpoilers, hasProfanity, score, creationDate, movieTitle, sentiment_classification]
+- `X = [isVerified, isSuperReviewer, hasSpoilers, hasProfanity, score, creationDate, movieTitle, sentiment_classification]`
   - Each column is appropriately preprocessed before use by the Logistic Regression model.
-- y = [oscarWinner]
+- `y = [oscarWinner]`
 
 
 **Model 2: Neural Network Data** 
