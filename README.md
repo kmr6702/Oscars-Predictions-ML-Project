@@ -132,11 +132,12 @@ The first file contains the features used by the MLP to predict whether or not a
 **Model 3 Data:** 
 
 Location: `Predict_2025_Data` folder.
-
+```
 Predict_2025_Data/
 |
 ├──american_films_2025_final.csv
 └──movies_2000_to_2024.csv
+```
 
 The features present in the datasets are:
 * Title
@@ -157,11 +158,12 @@ The file `movies_2000_to_2024.csv` contains a 50/50 split of nominated movies an
 **Model 3 Data:** 
 
 Location: `Predict_2026_Data` folder.
-
+```
 Predict_2026_Data/
 |
 ├──american_films_2026.csv
 └──movies_2000_to_2025.csv
+```
 
 The features present in the datasets are:
 * Title
