@@ -30,13 +30,25 @@ File: `model2_mlp.ipynb`
 
 This file contains the preprocessing, training, hyperparameter tuning, and evaluation of an MLP predicting whether a movie was nominated for Best Picture. 
 
-**Model 3: A model that will use historical data on Oscars nominees and non-nominees to predict whether a movie was nominated for an award in the 2026 Awards Season.**
+**Model 3: A model that will use historical data on Oscar Best Picture nominees and non-nominees to predict whether a movie was nominated for an award in the 2026 Awards Season.**
 
-Location: 
+Location: `oscar_nominee_only_2025`
 
-**Model 4: A model that will use historical data on Oscars nominees and non-nominees to predict whether a movie will be nominated for the 2027 Awards Season.**
+This model uses historical movie data from 2000-2024 in order to predict whether a movie released in 2025 will be nominated for an Oscar Best Picture. It also prints out the top ten movies predicted to be nominated for Best Picture, as well as searching and printing the prediction for the actual nominees for the award. 
 
-Location: 
+Some notes for this model: 
+* This model only predicts for eligible movies. The data that the model was trained and tested on only includes movies that are eligible to be nominated for an Oscar; the model itself cannot differentiate between an eligible and non-eligible movie.
+
+**Model 4: A model that will use historical data on Oscar Best Picture nominees and non-nominees to predict whether a movie will be nominated for the 2027 Awards Season.**
+
+Location: `oscar_nominee_only_2026`
+
+This model is nearly identical to model 3; it shares all the same preprocessing, with some minor hyperparameter tuning. This model was trained on historical movie data from 2000-2025 and predicts which movies released in 2026 will be nominated to win an Oscar Best Picture. Again, this model prints out the top ten movies with the highest probability of being nominated, and also searches and prints out the probability of movies that the developers think will be nominated.
+
+Some notes on this model:
+* The movie data is not complete. Since this model was trained in early November of 2026, not all movies coming in 2026 have been released yet. This might potentially skew the model predictions, as the features IMDb rating and Gross Income are filled with zeros for movies not released yet.
+* This model only predicts for eligible movies. The data that the model was trained and tested on only includes movies that are eligible to be nominated for an Oscar; the model itself cannot differentiate between an eligible and non-eligible movie. 
+* There is no way to validate the model's predictions. As the Oscars' nominees for Best Picture will not be announced until January of 2027, we cannot confirm that the predicted movies will actually be nominated. 
 
 **Wikipedia Scraping Code: This code was used to gather data from Wikipedia**
 
@@ -115,13 +127,57 @@ Classification Model (Logistic Regression):
 
 File Name: `films_2012_to_2023.csv` and `nominees_2012_to_2023.csv`.
 
-The first file file contains the features used by the MLP to predict whether or not a movie was nominated for an Oscar. The second file is used in preprocessing to label the films in the first file with their nomination status.
+The first file contains the features used by the MLP to predict whether or not a movie was nominated for an Oscar. The second file is used in preprocessing to label the films in the first file with their nomination status.
 
 **Model 3 Data:** 
 
-Location: `Wiki_test`.
+Location: `Predict_2025_Data` folder.
 
-This folder contains data scraped from Wikipedia's API.
+Predict_2025_Data/
+|
+├──american_films_2025_final.csv
+└──movies_2000_to_2024.csv
+
+The features present in the datasets are:
+* Title
+* Oscar Year
+* Opening Month
+* Director(s)
+* Star(s)
+* Production Company
+* Award
+* Movie Genre
+* Domestic Income
+* IMDb Rating 
+
+The file `american_films_2025_final.csv` contains the eligible American movies released in 2025. This data was gathered by scraping the Wikipedia page "List of American Films of 2025" using the code from the `wiki_test` folder. This data was supplemented with data from IMDb's website as well as Rotten Tomatoes. This data was used as the test set. 
+
+The file `movies_2000_to_2024.csv` contains a 50/50 split of nominated movies and non-nominated movies from the years 2000 to 2024. This data was used as the training and validation set, with an 80/20 split. 
+
+**Model 3 Data:** 
+
+Location: `Predict_2026_Data` folder.
+
+Predict_2026_Data/
+|
+├──american_films_2026.csv
+└──movies_2000_to_2025.csv
+
+The features present in the datasets are:
+* Title
+* Oscar Year
+* Opening Month
+* Director(s)
+* Star(s)
+* Production Company
+* Award
+* Movie Genre
+* Domestic Income
+* IMDb Rating 
+
+The file `american_films_2026.csv` contains the eligible American movies released in 2026. This data was gathered by scraping the Wikipedia page "List of American Films of 2026" using the code from the `wiki_test` folder. This data was supplemented with data from IMDb's website as well as Rotten Tomatoes. This data was used as the test set. 
+
+The file `movies_2000_to_2025.csv` contains a 50/50 split of nominated movies and non-nominated movies from the years 2000 to 2025. This data was used as the training and validation set, with an 80/20 split. 
 
 ### Resources
 Research papers, reference links, notes that you used for the project, and final presentation slides.
