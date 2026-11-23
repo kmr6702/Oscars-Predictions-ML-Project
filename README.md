@@ -19,7 +19,7 @@ As we have four models, we separate our code into four files. Descriptions of th
 
 Location: 
 ```
-sentiment_analysis.ipyn
+sentiment_analysis.ipynb
 ```
 
 Model 1 is a sentiment analysis model pipeline that uses Rotten Tomatoes reviews and statistics such as the creation date of the review, the rating assigned to it, and whether or not the reviewer was a verified reviewer to predict whether a movie won an Oscar. It uses two models to accomplish this task. The first uses an SVM to assign a sentiment rating from 1 to 5 to a movie based on its Rotten Tomatoes review. The second is a Logistic Regression model that uses the sentiment prediction and other columns from the dataset to classify the movie as an Oscar Winner or not.
@@ -32,7 +32,7 @@ This file contains the preprocessing, training, hyperparameter tuning, and evalu
 
 **Model 3: A model that will use historical data on Oscar Best Picture nominees and non-nominees to predict whether a movie was nominated for an award in the 2026 Awards Season.**
 
-Location: `oscar_nominee_only_2025`
+Location: `oscar_nominee_only_2025.ipynb`
 
 This model uses historical movie data from 2000-2024 in order to predict whether a movie released in 2025 will be nominated for an Oscar Best Picture. It also prints out the top ten movies predicted to be nominated for Best Picture, as well as searching and printing the prediction for the actual nominees for the award. 
 
@@ -41,7 +41,7 @@ Some notes for this model:
 
 **Model 4: A model that will use historical data on Oscar Best Picture nominees and non-nominees to predict whether a movie will be nominated for the 2027 Awards Season.**
 
-Location: `oscar_nominee_only_2026`
+Location: `oscar_nominee_only_2026.ipynb`
 
 This model is nearly identical to model 3; it shares all the same preprocessing, with some minor hyperparameter tuning. This model was trained on historical movie data from 2000-2025 and predicts which movies released in 2026 will be nominated to win an Oscar Best Picture. Again, this model prints out the top ten movies with the highest probability of being nominated, and also searches and prints out the probability of movies that the developers think will be nominated.
 
@@ -127,7 +127,24 @@ Classification Model (Logistic Regression):
 
 File Name: `films_2012_to_2023.csv` and `nominees_2012_to_2023.csv`.
 
-The first file contains the features used by the MLP to predict whether or not a movie was nominated for an Oscar. The second file is used in preprocessing to label the films in the first file with their nomination status.
+The first file contains the features used by the MLP to predict whether or not a movie was nominated for an Oscar. The relevant features are:
+* Worldwide Revenue
+* Domestic Revenue
+* Domestic Percent
+* Foreign Revenue
+* Foreign Percent
+* Genres
+* Rating
+* Vote Count
+* Original Language
+* Production Countries
+* Director
+* Duration
+* Is Winner
+
+To narrow the dataset, this file only includes movies where the production countries are USA, United Kingdom, or both.
+
+The second file contains all the nominees for Best Picture from 2012 to 2023. It is used in preprocessing to label the films in the first file with their nomination status. These labels are used as the targets. 
 
 **Model 3 Data:** 
 
