@@ -198,7 +198,7 @@ The file `american_films_2026.csv` contains the eligible American movies release
 
 The file `movies_2000_to_2025.csv` contains a 50/50 split of nominated movies and non-nominated movies from the years 2000 to 2025. This data was used as the training and validation set, with an 80/20 split. 
 
-### Resources
+### Resources (Resources Folder)
 This folder contains the research and notes we used for this project, as well as our final presentation slides.
 
 The following documents contain our research:
