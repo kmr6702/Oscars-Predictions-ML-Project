@@ -100,7 +100,7 @@ sentiment_data/
 ├──2021_coda_user.csv
 ├──2022_everything_everywhere_all_at_once_user.csv
 ├──2023_oppenheimer_user.csv
-├──essential_movies.csv
+└──essential_movies.csv
 ```
 
 Each file of format `year_name.csv` contains reviews on a given year's Oscar-winning movie. The file `essential_movies.csv` contains information about the non-Oscar-winning movies.
@@ -199,5 +199,17 @@ The file `american_films_2026.csv` contains the eligible American movies release
 The file `movies_2000_to_2025.csv` contains a 50/50 split of nominated movies and non-nominated movies from the years 2000 to 2025. This data was used as the training and validation set, with an 80/20 split. 
 
 ### Resources
-Research papers, reference links, notes that you used for the project, and final presentation slides.
-  
+This folder contains the research and notes we used for this project, as well as our final presentation slides.
+
+The following documents contain our research:
+```
+|
+├──96_general_entry_rules.pdf
+├──A Practical Guide to Frequency Encoding and Its Impact on Machine Learning _ by Farhan S _ Medium.pdf4
+├──Belief in the Machine - Investigating Epistemological Blind Spots of Language Models.pdf
+├──Judging facts, judging norms - Training machine learning models to judge humans requires a modified approach to labeling data.pdf
+└──Sentiment Analysis Research.pdf
+```
+
+Our final slides presentation can be found in the file `FILE`.
+
