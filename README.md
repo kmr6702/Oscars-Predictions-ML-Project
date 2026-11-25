@@ -22,7 +22,7 @@ Location:
 sentiment_analysis.ipynb
 ```
 
-Model 1 is a sentiment analysis model pipeline that uses Rotten Tomatoes reviews and statistics such as the creation date of the review, the rating assigned to it, and whether or not the reviewer was a verified reviewer to predict whether a movie won an Oscar. It uses two models to accomplish this task. The first uses an SVM to assign a sentiment rating from 1 to 5 to a movie based on its Rotten Tomatoes review. The second is a Logistic Regression model that uses the sentiment prediction and other columns from the dataset to classify the movie as an Oscar Winner or not.
+Model 1 is a sentiment analysis model pipeline that uses Rotten Tomatoes reviews and statistics such as the creation date of the review, the rating assigned to it, and whether or not the reviewer was a verified reviewer to predict whether a movie won an Oscar. It uses two models to accomplish this task. The first is an SVM that predicts a sentiment rating from 1 to 5 for a movie based on its Rotten Tomatoes review. The second is a Logistic Regression model that uses the sentiment prediction and other columns from the dataset to classify the movie as an Oscar winner or not.
 
 **Model 2: An MLP that will predict whether a movie was nominated for Best Picture in the Oscars.**
 
