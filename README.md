@@ -15,6 +15,8 @@ Movie buffs eagerly await the Oscars season, and may be unsure whether their fav
 ### Code (Code Folder)
 As we have four models, we separate our code into four files. Descriptions of the models and their locations are included in this section.
 
+Important Note: The files are intended to be run in Google Colab and paths should be updated accordingly.
+
 **Model 1: A model that will perform sentiment analysis on Rotten Tomatoes reviews to predict whether a movie won an Oscar.**
 
 Location: 
